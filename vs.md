@@ -1,11 +1,11 @@
 ---
 id: bBMzp9E84apVWsuJsP0IW
-title: Vs
+title: compared to
 desc: ''
-updated: 1630797038236
+updated: 1631142409429
 created: 1630797001567
 ---
 
-# can-be-compared-to
+- [[has-alias]] vs; compares to; can be compared to;
 
 
