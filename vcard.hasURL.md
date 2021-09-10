@@ -1,6 +1,6 @@
 ---
 id: BzaAaifsfEv5mTiEOFBPA
-title: Has URL
+title: is associated with the URL
 desc: ''
 updated: 1630801379645
 created: 1630795517106
@@ -15,7 +15,7 @@ created: 1630795517106
 
 ## use of "URL"
 
-### [[vs]] URI
+### [[pred.vs]] URI
 
 - [What's the Difference Between a URI and a URL?](https://danielmiessler.com/study/difference-between-uri-url/) :
   - "If the protocol (https, ftp, etc.) is either present or implied for a domain, you should call it a URL—even though it’s also a URI."
@@ -24,7 +24,7 @@ created: 1630795517106
 
 ## possible alternatives
 
-## [[vs]] [[foaf.homepage]]
+## [[pred.vs]] [[foaf.homepage]]
 
 "Has URL" is like `foaf.homepage`, but homepage (in the sense of a personal web site) feels almost aniquated. 
 
@@ -34,7 +34,7 @@ created: 1630795517106
   - i.e. the high-effort page nobody sees any more
 - the browser home page
 
-##  [[vs]] identifier
+##  [[pred.vs]] identifier
 
 - [Data Model - schema.org](https://schema.org/docs/datamodel.html#identifierBg)
   - "in most cases there is a conventional short name for most identifier schemes"
