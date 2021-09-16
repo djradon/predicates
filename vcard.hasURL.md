@@ -1,17 +1,13 @@
 ---
 id: BzaAaifsfEv5mTiEOFBPA
-title: is associated with the URL
+title: hasUrl
 desc: ''
-updated: 1630801379645
+updated: 1631305818778
 created: 1630795517106
 ---
 
-# Has URL
-
-
-
-- at it's weakest
-  - paraphrase: "[[is-associated-with]] the URL"
+- [[skos.altLabel]] is associated with the URL; webpage; URL;
+- 
 
 ## use of "URL"
 
@@ -23,6 +19,11 @@ created: 1630795517106
 - the terms URI and IRI might represent more general and accessible concepts, but
 
 ## possible alternatives
+
+## [[pred.vs]] [[vcard:url]]
+
+- url is shorter than hasUrl
+- hasUrl probably reads better
 
 ## [[pred.vs]] [[foaf.homepage]]
 
