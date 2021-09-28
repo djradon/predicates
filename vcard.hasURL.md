@@ -29,7 +29,7 @@ created: 1630795517106
 
 "Has URL" is like `foaf.homepage`, but homepage (in the sense of a personal web site) feels almost aniquated. 
 
-### "homepage" [[has-alternate-meaning]] 
+### "homepage" [[pred.has-alternate-meaning]] 
 
 - the "first page you go to on a site",
   - i.e. the high-effort page nobody sees any more
