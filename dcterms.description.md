@@ -7,4 +7,4 @@ created: 1631256269247
 ---
 
 - [[dcterms.description]] "can be described as"
-- [[pred.vs]] dcterms:description; 
+- [[vs]] dcterms:description; 

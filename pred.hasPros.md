@@ -6,5 +6,5 @@ updated: 1633208150015
 created: 1633208109127
 ---
 
-- [[skos.altLabel]] has advanatages, has benefits
+- [[aka]] has advanatages, has benefits
 - [[pred.hasContext]]  

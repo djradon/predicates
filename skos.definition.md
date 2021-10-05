@@ -7,5 +7,5 @@ created: 1632543127746
 ---
 A statement of or formal explanation of the meaning of a concept.
 
-- [[skos.altLabel]] ::
+- [[aka]] ::
   - from [[solution.km.remnote]]

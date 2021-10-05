@@ -6,5 +6,5 @@ updated: 1633218475522
 created: 1633218475522
 ---
 
-- [[skos.altLabel]] has disadvanatages, has drawbacks
+- [[aka]] has disadvanatages, has drawbacks
 
