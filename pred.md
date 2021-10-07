@@ -2,7 +2,7 @@
 id: Qj7Fdmnb0gwBsNLsyKrHE
 title: Pred
 desc: ''
-updated: 1633579627555
+updated: 1633586987902
 created: 1632378179289
 stub: true
 ---
@@ -28,7 +28,9 @@ stub: true
 
 - differentiate between notes that represent something (e.g. topics, solutions) and notes that are something (vs, journal)
   - comes down to "is about" something vs "is (a literary) something"?
-    - because the only things that refer to something and also are the something they refer to (self-referentiality) are
+    - could come down to resources being terms (instead of topics) [[vs.terms-vs-topics]]
+      - and contextual terms at that
+    - literary because the only things that refer to something and also are the something they refer to (self-referentiality) are
       - literature
       - symbols
       - computer programs (and some pointers?)
@@ -37,7 +39,7 @@ stub: true
   - article is interesting b/c it can be both
   - this is different that the class-individual confusion
   - how much does it really matter?
-  - I guess resources that are something are just a special case (subset)  of the resources that represent something
+  - I guess resources that are something are just a special case (subset)  of the resources that represent something  ^AQ6h3rFksAfc
    
 ## philosophy
 
