@@ -1,6 +1,6 @@
 ---
 id: IbtlawqUDxkCXURZQhuBY
-title: vs. 
+title: vs.
 desc: ''
 updated: 1633319078488
 created: 1633271412832
