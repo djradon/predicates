@@ -1,10 +1,10 @@
 ---
 id: FZuEzk1DnrPw3LydUPSUB
-title: has Pros
+title: hasPros
 desc: ''
-updated: 1633208150015
+updated: 1633442664424
 created: 1633208109127
 ---
 
-- [[aka]] has advanatages, has benefits
+- [[aka]] has pros, has advanatages, has benefits
 - [[pred.hasContext]]  
