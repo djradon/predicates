@@ -6,5 +6,5 @@ updated: 1633273078564
 created: 1633273021758
 ---
 
-- [[type]] [[Property]]
+- [[instanceOf]] [[Predicate]]
 - [[equivalent]] 

@@ -6,5 +6,5 @@ updated: 1633442664424
 created: 1633208109127
 ---
 
-- [[aka]] has pros, has advanatages, has benefits
+- [[alsoKnownAs]] has pros, has advanatages, has benefits
 - [[pred.hasContext]]  

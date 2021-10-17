@@ -8,5 +8,5 @@ created: 1632287205183
 
 A good candidate for "Default Predicate" 
 
-[[aka]] isRelatedTo
+[[alsoKnownAs]] isRelatedTo
 [[equivalent]] schema:isRelatedTo, dbo:related 

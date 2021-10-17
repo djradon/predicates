@@ -6,5 +6,5 @@ updated: 1633442711800
 created: 1633218475522
 ---
 
-- [[aka]] has cons, has disadvanatages, has drawbacks
+- [[alsoKnownAs]] has cons, has disadvanatages, has drawbacks
 

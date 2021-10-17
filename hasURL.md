@@ -2,12 +2,12 @@
 id: BzaAaifsfEv5mTiEOFBPA
 title: hasUrl
 desc: ''
-updated: 1633318289166
+updated: 1634430680680
 created: 1630795517106
 ---
 
-- [[aka]] is associated with URL; webpage; URL;
-- 
+- [[alsoKnownAs]] is associated with URL; webpage; URL;
+- [[equivalentPredicate]] [vcard:hasURL](http://www.w3.org/2006/vcard/ns#hasURL)
 
 ## use of "URL"
 
