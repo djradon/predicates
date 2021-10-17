@@ -7,7 +7,7 @@ created: 1632543784135
 ---
 set up your Class hierarchy
 
-- [[owl.inverseOf]] [[rdfs.subClassOf]]
+- [[inverseOf]] [[subClassOf]]
 - [[vs]] ebucore:hasType
   - `hasType` is more concise but [[vs.class-vs-type]]
   - 

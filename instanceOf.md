@@ -2,7 +2,7 @@
 id: s2AA4w4SyPFu44ylTFLQH
 title: instanceOf
 desc: ''
-updated: 1634440041188
+updated: 1634489803226
 created: 1633270478774
 ---
 
@@ -11,7 +11,7 @@ created: 1633270478774
 - [[instanceOf]] [[Predicate]] 
 - [[equivalent]] [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type)
 
-## Discussion
+## instanceOf Discussion
 
-- changed because it feels like, colloquially, "type" is ambiguous between hasType and isTypeOf; the latter can something more like subClassOf, e.g. Car is a type of Automobile, and not "my old mustange" is a type of Ford.
+- changed because it feels like, colloquially, "type" is ambiguous between hasType and isTypeOf; the latter canmean  something more like subClassOf, e.g. Car is a type of Automobile, and not "my old mustange" is a type of Ford.
 - isA is nice and compact, but maybe feels ambiguous for classes, e.g. "[a] digital garden is a website" 
