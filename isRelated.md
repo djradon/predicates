@@ -1,6 +1,6 @@
 ---
 id: UkrTl5xMh45SMAfs7ei9L
-title: related
+title: isRelated
 desc: ''
 updated: 1633271897050
 created: 1632287205183

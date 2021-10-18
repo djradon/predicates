@@ -6,4 +6,4 @@ updated: 1633225388735
 created: 1633220799587
 ---
 
-- [[related]] [[solution.vocabulary.rico]]
+- [[isRelated]] [[solution.vocabulary.rico]]
