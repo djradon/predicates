@@ -6,5 +6,5 @@ updated: 1632283062588
 created: 1631251416776
 ---
 
-- [[dcterms.identifier]] [pred.writtenBy](https://predicate.info)
+- [[dcterms.identifier]] 
 - 

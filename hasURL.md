@@ -1,8 +1,8 @@
 ---
 id: BzaAaifsfEv5mTiEOFBPA
-title: hasUrl
+title: hasURL
 desc: ''
-updated: 1634430680680
+updated: 1634741529740
 created: 1630795517106
 ---
 
@@ -25,11 +25,11 @@ created: 1630795517106
 - url is shorter than hasUrl
 - hasUrl probably reads better
 
-## [[vs]] [[foaf.homepage]]
+## [[vs]] `foaf.homepage` 
 
-"Has URL" is like `foaf.homepage`, but homepage (in the sense of a personal web site) feels almost aniquated. 
+"Has URL" is like `foaf.homepage`, but homepage (in the sense of a personal web site) feels almost antiquated. 
 
-### "homepage" [[pred.has-alternate-meaning]] 
+### "homepage" [[hasSense]] 
 
 - the "first page you go to on a site",
   - i.e. the high-effort page nobody sees any more
@@ -40,6 +40,7 @@ created: 1630795517106
 - [Data Model - schema.org](https://schema.org/docs/datamodel.html#identifierBg)
   - "in most cases there is a conventional short name for most identifier schemes"
   - unrelated: "we do not treat isicV4 as a subproperty of identifier since it serves to identify a category not an individual Thing" -- categories need identifiers too!
+    - [2021-10-20] I think what I meant here was "categories are things too"
 
 
 
