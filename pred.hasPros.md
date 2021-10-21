@@ -7,4 +7,4 @@ created: 1633208109127
 ---
 
 - [[alsoKnownAs]] has pros, has advanatages, has benefits
-- [[pred.hasContext]]  
+- [[hasContext]]  
