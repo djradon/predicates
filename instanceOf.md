@@ -1,17 +1,21 @@
 ---
 id: s2AA4w4SyPFu44ylTFLQH
 title: instanceOf
-desc: ''
-updated: 1634489803226
+desc: 'the subject is a concrete example of a Class'
+updated: 1634853297464
 created: 1633270478774
 ---
 
 - [[alsoKnownAs]] isA, is a, is an instance of the class
 - [[hasDomain]] [[Resource]]
+- [[hasRange]] [[Class]]
 - [[instanceOf]] [[Predicate]] 
 - [[equivalent]] [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type)
 
 ## instanceOf Discussion
 
-- changed because it feels like, colloquially, "type" is ambiguous between hasType and isTypeOf; the latter canmean  something more like subClassOf, e.g. Car is a type of Automobile, and not "my old mustange" is a type of Ford.
+- changed because 
+  - "instanceOf" underscores that the subject is not a Class
+  - it feels like, colloquially, "type" is ambiguous between hasType and isTypeOf; the latter can mean  something more like subClassOf
 - isA is nice and compact, but maybe feels ambiguous for classes, e.g. "[a] digital garden is a website" 
+- 
