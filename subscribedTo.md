@@ -2,8 +2,10 @@
 id: S9n2YYCHLKucHYlutSLrz
 title: subscribedTo
 desc: ''
-updated: 1634762631550
+updated: 1635225462154
 created: 1634762631550
 ---
 
+voluntarily receiving something on-the-regular
 
+- [[subClassOf]] [[signedUpFor]]
