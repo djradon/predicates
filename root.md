@@ -2,8 +2,8 @@
 id: 1xrNRETd0KjZKAEDvIcLM
 title: Root
 desc: ''
-updated: 1633669043479
+updated: 1635566158620
 created: 1629643818049
 ---
 
-a semantic web needs properties. 
+an expressive semantic web needs predicates 

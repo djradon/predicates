@@ -7,8 +7,8 @@ created: 1632543784135
 ---
 set up your Class hierarchy
 
-- [[inverseOf]] [[subClassOf]]
-- [[vs]] ebucore:hasType
+- [[inverseOf]] [[p.subClassOf]]
+- [[p.vs]] ebucore:hasType
   - `hasType` is more concise but [[vs.class-vs-type]]
   - 
     
