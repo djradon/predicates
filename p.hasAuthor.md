@@ -8,5 +8,5 @@ created: 1634620266233
 
 authorship is literary creatorship
 
-- [[p.subPropertyOf]] [[p.creator]]
+- [[p.subPropertyOf]] [[p.hasCreator]]
 - [[p.equivalentPredicate]] [pred.writtenBy](https://predicate.info)

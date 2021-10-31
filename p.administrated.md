@@ -2,10 +2,10 @@
 id: 78frFBtwJHWi6KwFZs26s
 title: administrated
 desc: ''
-updated: 1635369320705
+updated: 1635677103274
 created: 1635369296544
 ---
 
 - [[p.alsoKnownAs]] administered
-- [[p.instanceOf]] [[c.Predicate]]
+- [[p.instanceOf]] [[c.ActivityPredicate]]
 

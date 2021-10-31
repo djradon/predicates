@@ -2,9 +2,9 @@
 id: ps80E6FnDhcNpxIYOZvwi
 title: metWith
 desc: ''
-updated: 1635355994467
+updated: 1635678164841
 created: 1635355919754
 ---
 
-- [[p.instanceOf]] [[c.Predicate]]
+- [[p.instanceOf]] [[c.ActivityPredicate]]
 - [[p.hasRange]] [[c.Agent]]

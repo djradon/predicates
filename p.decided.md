@@ -2,11 +2,11 @@
 id: D0FMQEEFf8bj5484XvEJU
 title: decided
 desc: a decisive predicate
-updated: 1635579028782
+updated: 1635677377909
 created: 1634856433230
 ---
 
-- [[p.instanceOf]] [[Activity]]
+- [[p.instanceOf]] [[c.ActivityPredicate]]
 
 ## [[hasComment]]
 
