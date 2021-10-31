@@ -7,6 +7,6 @@ created: 1635363546028
 ---
 
 - [[p.vs]] updated
-  -  `updated` might be more general, but that's overloaded in [[solution.yaml.frontmatter]]
+  -  `updated` might be more general, but that's overloaded in [[soln.yaml.frontmatter]]
   
 

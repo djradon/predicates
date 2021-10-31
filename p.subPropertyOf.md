@@ -2,9 +2,9 @@
 id: qId6SmOTwo5kg5CBOELBB
 title: subPropertyOf
 desc: ''
-updated: 1633273078564
+updated: 1635671688400
 created: 1633273021758
 ---
 
-- [[instanceOf]] [[Predicate]]
-- [[p.equivalent]] 
+- [[p.instanceOf]] [[c.Predicate]]
+- [[p.equivalentProperty]] [rdfs:subPropertyOf](http://www.w3.org/2000/01/rdf-schema#subPropertyOf)

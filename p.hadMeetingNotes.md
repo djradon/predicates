@@ -6,5 +6,5 @@ updated: 1635369518457
 created: 1635369417688
 ---
 
-- [[instanceOf]] [[Predicate]]
-- [[p.hasDomain]] [[Meeting]]
+- [[p.instanceOf]] [[c.Predicate]]
+- [[p.hasDomain]] [[c.Meeting]]

@@ -2,7 +2,7 @@
 id: fLRYIQbFRfaAleFFXUF3m
 title: hasTopic
 desc: ''
-updated: 1634656337795
+updated: 1635673528089
 created: 1634653450776
 ---
 
@@ -10,7 +10,7 @@ A subject you write or speak about.
 
 ## Thoughts
 
-- "subject" is already overloaded in the 
+- "subject" is already overloaded in the RDF world
   - of course "object" is overloaded too, with the sense of an objective is a goal
 
 ## Quotes

@@ -1,12 +1,12 @@
 ---
 id: D0FMQEEFf8bj5484XvEJU
 title: decided
-desc: 'a decisive predicate'
+desc: a decisive predicate
 updated: 1635579028782
 created: 1634856433230
 ---
 
-- [[instanceOf]] [[Activity]]
+- [[p.instanceOf]] [[Activity]]
 
 ## [[hasComment]]
 

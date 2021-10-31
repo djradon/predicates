@@ -6,4 +6,4 @@ updated: 1634435574070
 created: 1634435095758
 ---
 
-- [[hasClass]] [[Predicate]]
+- [[hasClass]] [[c.Predicate]]

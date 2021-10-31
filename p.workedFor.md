@@ -7,8 +7,8 @@ created: 1634684809616
 ---
 
 - [[p.alsoKnownAs]] employed by
-- [[hasRange]] [[Agent]]
-- [[p.hasDomain]] [[Agent]]
+- [[p.hasRange]] [[c.Agent]]
+- [[p.hasDomain]] [[c.Agent]]
 - [[p.equivalentPredicate]] [schema:worksFor](http://schema.org/worksFor)
 
 ## [[hasComment]]
