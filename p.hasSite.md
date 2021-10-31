@@ -2,10 +2,10 @@
 id: KdI5YmSylhts0ZkiJVRdf
 title: hasSite
 desc: ''
-updated: 1634926244665
+updated: 1635708307248
 created: 1633206730189
 ---
 
-- the subject [[agent]] or [[topic]] has a whole [[site]]
+- the subject [[c.Agent]] or [[c.Topic]] has a whole [[site]]:
   - about itself and/or
-  - [[ownedBy]] or [[controlledBy]] by itself
+  - [[p.ownedBy]] or [[p.controlledBy]] by itself

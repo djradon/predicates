@@ -1,7 +1,7 @@
 ---
 id: CooO00BfhfYUaXK7RVHZ2
 title: hasGoal
-desc: 'Agents and projects can be said to have desire outcomes'
+desc: Agents and projects can be said to have desire outcomes
 updated: 1635671102558
 created: 1635669467229
 ---
@@ -11,4 +11,4 @@ created: 1635669467229
 
 ## thoughts
 
-- if listed on a daily or weekly journal/planning note, the implication is "I have (or my superordinate agents have) an intended [[Completion Time|t.data.temporality#completion-time]]"
+- if listed on a daily or weekly journal/planning note, the implication is "I have (or my superordinate agents have) an intended [[Completion Time|t.cs.data.temporality#completion-time]]"
