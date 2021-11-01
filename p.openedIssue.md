@@ -1,6 +1,6 @@
 ---
 id: GYSpKJ4r9meeoBc5QBdW1
-title: openedSupportCase
+title: openedIssue
 desc: ''
 updated: 1635679155127
 created: 1635679151866
