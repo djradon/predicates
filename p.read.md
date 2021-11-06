@@ -7,4 +7,4 @@ created: 1635661136468
 ---
 
 - [[p.instanceOf]] [[c.ActivityPredicate]]
-- [[p.hasRange]] [[c.Work]]
+- [[p.hasRange]] [[c.CreativeWork]]

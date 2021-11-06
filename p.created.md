@@ -8,4 +8,4 @@ created: 1634431162473
 
 - [[p.instanceOf]] [[c.ActivityPredicate]]
 - [[p.equivalentPredicate]] [dbo:created](http://dbpedia.org/ontology/created)
-- [[p.hasRange]] [[c.Work]]
+- [[p.hasRange]] [[c.CreativeWork]]
