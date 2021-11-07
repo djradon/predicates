@@ -8,4 +8,4 @@ created: 1635884359648
 
 almost as generic as "did", but with more sense of accomplishment
 
-- [[p.subClassOf]] [[c.ActivityPredicate]]
+- [[p.instanceOf]] [[c.ActivityPredicate]]

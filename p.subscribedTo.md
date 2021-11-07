@@ -2,11 +2,11 @@
 id: S9n2YYCHLKucHYlutSLrz
 title: subscribedTo
 desc: ''
-updated: 1635676517267
+updated: 1636314122676
 created: 1634762631550
 ---
 
-voluntarily receiving something on-the-regular
+voluntarily receiving something, usually on-the-regular, sometimes in exchange for money
 
-- [[p.subClassOf]] [[p.signedUpFor]]
+- [[p.subPropertyOf]] [[p.signedUpFor]]
 - [[p.instanceOf]] [[c.ActivityPredicate]]

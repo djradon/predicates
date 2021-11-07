@@ -8,4 +8,4 @@ created: 1635889667380
 
 leave it better than you found it
 
-- [[p.subClassOf]] [[c.ActivityPredicate]]
+- [[p.instanceOf]] [[c.ActivityPredicate]]

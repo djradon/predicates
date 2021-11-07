@@ -8,4 +8,4 @@ created: 1635913323093
 
 a service-oriented beaut
 
-- [[p.subClassOf]] [[c.ActivityPredicate]]
+- [[p.instanceOf]] [[c.ActivityPredicate]]
