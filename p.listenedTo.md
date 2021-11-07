@@ -6,5 +6,6 @@ updated: 1635677519753
 created: 1635668799405
 ---
 
+
 - [[p.instanceOf]] [[c.ActivityPredicate]]
 - [[p.hasRange]] [[c.CreativeWork]] [[c.Agent]]

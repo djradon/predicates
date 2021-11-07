@@ -6,6 +6,7 @@ updated: 1633629602759
 created: 1630296394435
 ---
 
+
 Properties in RDF allow us to define or describe characteristics of resources.
 
 
