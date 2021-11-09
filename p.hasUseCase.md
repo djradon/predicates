@@ -1,6 +1,6 @@
 ---
 id: wawWMSNRoPIh2fE2TGDo5
-title: hasUseCases
+title: hasUseCase
 desc: ''
 updated: 1635662810201
 created: 1635662765589
