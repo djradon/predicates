@@ -8,6 +8,6 @@ created: 1635668476861
 
 - [[p.instanceOf]] [[c.ActivityPredicate]]
 - [[p.similarTo]] [[p.workedOn]]
-- [[p.hasIssues]]
+- [[p.hasIssue]]
   - was the activity finished?
   - extremely non-specific
