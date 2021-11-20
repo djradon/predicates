@@ -1,8 +1,8 @@
 ---
 id: fZZRGb9VxZv0OsCSGfgFA
 title: hasSource
-desc: ''
-updated: 1635741727662
+desc: 'attributing a quote or a sentiment to a person; work or adressable resource'
+updated: 1637403201130
 created: 1633220799587
 ---
 
