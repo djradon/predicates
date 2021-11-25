@@ -1,7 +1,0 @@
-version: 1
-imports: []
-schemas:
-  - id: cited
-    children: []
-    title: cited
-    parent: root

@@ -5,6 +5,7 @@ desc: ''
 updated: 1636729960216
 created: 1633191099350
 ---
+
 solutions or product ideas can be applied to problems, user stories, other solutions, or topics in general
 
 - [[p.vs]] ([[dendron://predicates/p.hasCapability]] or [[dendron://predicates/p.hasFeature]])  ^t0eYw34Px2ZU

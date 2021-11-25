@@ -6,6 +6,7 @@ updated: 1636394988045
 created: 1636394879577
 ---
 
+
 - [[p.instanceOf]] [[c.ActivityPredicate]]
 - [[p.hasSense]]
   - direct somebody (to do something)
