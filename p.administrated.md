@@ -8,5 +8,5 @@ created: 1635369296544
 
 
 - [[p.alsoKnownAs]] administered
-- [[p.instanceOf]] [[c.ActivityPredicate]]
+- [[p.instanceOf]] [[c.Pred.Activity]]
 

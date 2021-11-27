@@ -9,4 +9,4 @@ created: 1635913323093
 
 a service-oriented beaut
 
-- [[p.instanceOf]] [[c.ActivityPredicate]]
+- [[p.instanceOf]] [[c.Pred.Activity]]

@@ -10,5 +10,5 @@ created: 1634930294044
 ---
 
 - [[p.alsoKnownAs]] spike into
-- [[p.instanceOf]] [[c.ActivityPredicate]]
+- [[p.instanceOf]] [[c.Pred.Activity]]
 - [[p.hasSource]] https://www.visual-paradigm.com/scrum/what-is-scrum-spike/

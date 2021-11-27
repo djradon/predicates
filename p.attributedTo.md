@@ -9,4 +9,4 @@ created: 1633218713705
 a way to cite the agent responsible for a statement, quote, idea, or belief
 
 - [[p.equivalentPredicate]] as:attributedTo prov:wasAttributedTo
-- [[p.instanceOf]] [[c.Predicate]] 
+- [[p.instanceOf]] [[c.Pred]] 

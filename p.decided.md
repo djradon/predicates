@@ -6,7 +6,7 @@ updated: 1635677377909
 created: 1634856433230
 ---
 
-- [[p.instanceOf]] [[c.ActivityPredicate]]
+- [[p.instanceOf]] [[c.Pred.Activity]]
 
 ## [[hasComment]]
 

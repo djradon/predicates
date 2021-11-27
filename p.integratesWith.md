@@ -9,4 +9,4 @@ created: 1633307909302
 - [[p.alsoKnownAs]] works with;
 - [[p.hasDomain]] [[c.Resource]]
 - [[p.hasRange]] [[c.Class]]
-- [[p.instanceOf]] [[c.Predicate]] 
+- [[p.instanceOf]] [[c.Pred]] 

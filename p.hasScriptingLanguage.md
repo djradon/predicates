@@ -6,4 +6,4 @@ updated: 1637592305305
 created: 1637592273946
 ---
 
-- [[p.instanceOf]] [[c.SolutionPredicate]]
+- [[p.instanceOf]] [[c.Pred.Solution]]

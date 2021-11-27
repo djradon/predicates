@@ -9,7 +9,7 @@ created: 1633270478774
 - [[p.alsoKnownAs]] isA, is a, is an instance of the class
 - [[p.hasDomain]] [[c.Resource]]
 - [[p.hasRange]] [[c.Class]]
-- [[p.instanceOf]] [[c.Predicate]] 
+- [[p.instanceOf]] [[c.Pred]] 
 - [[p.equivalentPredicate]] [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type)
 
 ## instanceOf Discussion

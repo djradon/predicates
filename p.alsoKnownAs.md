@@ -7,5 +7,5 @@ created: 1634438039304
 ---
 
 - [[p.alsoKnownAs]] alias, altLabel, also known as 
-- [[p.instanceOf]] [[c.Predicate]] 
+- [[p.instanceOf]] [[c.Pred]] 
 - [[p.equivalentPredicate]] http://www.w3.org/2004/02/skos/core#altLabel 

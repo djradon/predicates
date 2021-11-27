@@ -6,4 +6,4 @@ updated: 1637595970000
 created: 1637595951365
 ---
 
-- [[p.instanceOf]] [[c.FamilialPredicate]]
+- [[p.instanceOf]] [[c.Pred.Familial]]

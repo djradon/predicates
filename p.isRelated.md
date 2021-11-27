@@ -2,9 +2,11 @@
 id: UkrTl5xMh45SMAfs7ei9L
 title: isRelated
 desc: A good candidate for "Default Predicate"
-updated: 1635662152169
+updated: 1637940776655
 created: 1632287205183
 ---
+
+- [[p.instanceOf]] [[c.Pred.Conceptual]]
 
 - isn't every predicate a [[p.subPropertyOf]] this ? 
   - should have something for unrelated ! ;)

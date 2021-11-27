@@ -6,5 +6,5 @@ updated: 1635678140449
 created: 1635678101296
 ---
 
-- [[p.instanceOf]] [[c.ActivityPredicate]]
+- [[p.instanceOf]] [[c.Pred.Activity]]
 

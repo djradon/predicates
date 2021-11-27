@@ -6,7 +6,7 @@ updated: 1635678101361
 created: 1635363546028
 ---
 
-- [[p.instanceOf]] [[c.ActivityPredicate]]
+- [[p.instanceOf]] [[c.Pred.Activity]]
 - [[p.vs]] 
   -  `updated` 
      -  might be more general, but that's overloaded in [[soln.yaml.frontmatter]]

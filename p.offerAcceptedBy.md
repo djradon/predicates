@@ -6,4 +6,4 @@ updated: 1636467208159
 created: 1636466899889
 ---
 
-- [[p.instanceOf]] [[c.NegotiationPredicate]]
+- [[p.instanceOf]] [[c.Pred.Negotiation]]
