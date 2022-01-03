@@ -1,8 +1,8 @@
 ---
 id: ps80E6FnDhcNpxIYOZvwi
 title: metWith
-desc: ''
-updated: 1635678164841
+desc: 'a pre-arranged, possibly-virtual encounter'
+updated: 1641228539249
 created: 1635355919754
 ---
 
