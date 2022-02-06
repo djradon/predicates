@@ -7,5 +7,6 @@ created: 1636743442152
 ---
 
 
+
 - [[p.isRelated]] [[dendron://predicates/p.attributedTo]]
 - [[p.instanceOf]] [[c.Pred.Discursive]] [[c.Pred.Communication]]

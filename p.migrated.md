@@ -1,8 +1,11 @@
 ---
 id: 9oLQ361VKpLbaNitEojwa
 title: Migrated
-desc: 'In the context of IT, migrate basically just means move (some data, apps, or settings)'
+desc: >-
+  In the context of IT, migrate basically just means move (some data, apps, or
+  settings)
 updated: 1639675245061
 created: 1639674503309
 ---
+
 

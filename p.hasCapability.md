@@ -8,6 +8,7 @@ updated: 1636341421085
 created: 1635448474139
 ---
 
+
 - [[p.hasRange]] [[c.Solution]] [[c.Agent]]
 - [[p.alsoKnownAs]] is capable of; 
 - [[p.similarTo]] [[p.hasFeature]]

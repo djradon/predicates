@@ -7,4 +7,5 @@ created: 1636171738548
 ---
 
 
+
 Don't underestimate the importance of difference! Have I really not captured this somewhere?

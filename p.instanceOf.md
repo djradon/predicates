@@ -6,6 +6,7 @@ updated: 1635671606044
 created: 1633270478774
 ---
 
+
 - [[p.alsoKnownAs]] isA, is a, is an instance of the class
 - [[p.hasDomain]] [[c.Resource]]
 - [[p.hasRange]] [[c.Class]]

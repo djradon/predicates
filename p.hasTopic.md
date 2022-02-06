@@ -6,6 +6,7 @@ updated: 1636179896998
 created: 1634653450776
 ---
 
+
 A subject you write or speak about.
 
 ## Thoughts

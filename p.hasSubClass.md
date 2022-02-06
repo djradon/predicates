@@ -5,6 +5,7 @@ desc: ''
 updated: 1633204299040
 created: 1632543784135
 ---
+
 set up your Class hierarchy
 
 - [[p.inverseOf]] [[p.subClassOf]]

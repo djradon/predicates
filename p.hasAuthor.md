@@ -6,6 +6,7 @@ updated: 1634743575003
 created: 1634620266233
 ---
 
+
 authorship is literary creatorship
 
 - [[p.subPropertyOf]] [[p.hasCreator]]

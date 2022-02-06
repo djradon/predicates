@@ -6,6 +6,7 @@ updated: 1638024316827
 created: 1634945231808
 ---
 
+
 coursework, examples, articles
 
 - [[p.vs]] [[dendron://predicates/p.hasTraining]]

@@ -6,6 +6,7 @@ updated: 1635574540961
 created: 1632543127746
 ---
 
+
 - [[p.equivalentPredicate]] skos.defintion
 - [[p.alsoKnownAs]] `::`
   - from [[soln.RemNote]]

@@ -6,5 +6,6 @@ updated: 1635579100276
 created: 1631256269247
 ---
 
+
 - [[p.description]] "can be described as"
 - [[p.vs]] dcterms:description; 

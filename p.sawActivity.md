@@ -6,6 +6,7 @@ updated: 1635661615603
 created: 1634833492636
 ---
 
+
 - [[p.hasDomain]] [[c.TimePeriod]]
 
 - a time-period can be said to have seen happenings

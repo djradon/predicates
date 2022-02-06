@@ -6,4 +6,5 @@ updated: 1641757028859
 created: 1641757020288
 ---
 
+
 - [[p.instanceOf]] [[c.Pred.Shapow]]

@@ -6,6 +6,7 @@ updated: 1637940776655
 created: 1632287205183
 ---
 
+
 - [[p.instanceOf]] [[c.Pred.Conceptual]]
 
 - isn't every predicate a [[p.subPropertyOf]] this ? 

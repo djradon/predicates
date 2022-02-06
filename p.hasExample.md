@@ -6,6 +6,7 @@ updated: 1635574361500
 created: 1633214648543
 ---
 
+
 - [[p.equivalentPredicate]] skos.example
 
 

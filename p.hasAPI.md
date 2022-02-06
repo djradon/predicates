@@ -6,5 +6,6 @@ updated: 1638130575839
 created: 1638129579975
 ---
 
+
 - [[p.instanceOf]] [[c.Pred.Solution]]
 - [[p.correspondsTo]] [[t.cs.api]]

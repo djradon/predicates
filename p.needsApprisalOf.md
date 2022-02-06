@@ -6,5 +6,6 @@ updated: 1635578375359
 created: 1634845916057
 ---
 
+
 - [[p.hasDomain]] [[Agents]]
 - maybe replace with `mightBenefitFromKnowing` 

@@ -6,6 +6,7 @@ updated: 1635576174436
 created: 1635576144125
 ---
 
+
 ## Thoughts
 
 - evolved from relatesToSolution

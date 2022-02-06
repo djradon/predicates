@@ -7,5 +7,6 @@ created: 1635668799405
 ---
 
 
+
 - [[p.instanceOf]] [[c.Pred.Activity]]
 - [[p.hasRange]] [[c.CreativeWork]] [[c.Agent]]

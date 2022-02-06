@@ -6,5 +6,6 @@ updated: 1637566791794
 created: 1637566782245
 ---
 
+
 - [[p.instanceOf]] [[c.Pred.Activity]]
 

@@ -6,6 +6,7 @@ updated: 1635677707898
 created: 1635677574271
 ---
 
+
 - [[p.instanceOf]] [[c.Pred.Activity]]
 
 ## thoughts

@@ -6,5 +6,6 @@ updated: 1637798627553
 created: 1636431555965
 ---
 
+
 - [[p.instanceOf]] [[c.Pred.Negotiation]]
 

@@ -6,6 +6,7 @@ updated: 1636474973107
 created: 1635722197605
 ---
 
+
 - [[p.hasDomain]] [[c.Statement]]
 - [[p.hasRange]] [[c.TimePeriod]]
 

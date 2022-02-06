@@ -7,6 +7,7 @@ created: 1636394879577
 ---
 
 
+
 - [[p.instanceOf]] [[c.Pred.Activity]]
 - [[p.hasSense]]
   - direct somebody (to do something)

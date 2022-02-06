@@ -6,4 +6,5 @@ updated: 1638590614346
 created: 1638590568729
 ---
 
+
 - [[p.hasDomain]] [[c.Topic]] [[c.Solution]] 

@@ -6,6 +6,7 @@ updated: 1638198123161
 created: 1638194463683
 ---
 
+
 - [[p.instanceOf]] [[c.Pred.Mental]]
 - [[p.hasDomain]] [[c.Agent]]
 - [[p.hasRange]] [[c.Pred]] 

@@ -7,6 +7,7 @@ created: 1635889667380
 ---
 
 
+
 leave it better than you found it
 
 - [[p.instanceOf]] [[c.Pred.Activity]]
