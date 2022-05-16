@@ -9,7 +9,7 @@ created: 1632287205183
 
 - [[p.instanceOf]] [[c.Pred.Conceptual]]
 
-- isn't every predicate a [[p.subPropertyOf]] this ? 
+- isn't every predicate a [[p.subPredicateOf]] this ? 
   - should have something for unrelated ! ;)
   - although unrelated is a self-negating relationship
 

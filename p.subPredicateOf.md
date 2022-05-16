@@ -1,6 +1,6 @@
 ---
 id: qId6SmOTwo5kg5CBOELBB
-title: subPropertyOf
+title: subPredicateOf
 desc: ''
 updated: 1635719443091
 created: 1633273021758
