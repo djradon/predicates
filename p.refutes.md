@@ -7,4 +7,5 @@ created: 1637405609393
 ---
 
 
+
 [[p.instanceOf]] [[c.Pred.Activity]] [[c.Pred.Discursive]]

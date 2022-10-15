@@ -7,6 +7,7 @@ created: 1634747217326
 ---
 
 
+
 - [[p.equivalentPredicate]]  rdfs:seeAlso
 
 akin to a bibliographic item; pretty generic

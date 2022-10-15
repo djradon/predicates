@@ -7,4 +7,5 @@ created: 1635679872837
 ---
 
 
+
 coupled with [[p.sawPlannedActivity]], can help replace "sawActivity" if everything is either planned or unplanned

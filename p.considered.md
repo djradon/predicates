@@ -7,6 +7,7 @@ created: 1635677574271
 ---
 
 
+
 - [[p.instanceOf]] [[c.Pred.Activity]]
 
 ## thoughts

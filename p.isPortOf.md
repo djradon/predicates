@@ -7,6 +7,7 @@ created: 1636377272278
 ---
 
 
+
 - [[p.hasRange]]
   - [[c.Solution]]
   - [[c.Solution]] to [[c.Platform]]  ^EMM3VT4uZhW2

@@ -8,6 +8,7 @@ created: 1633219269243
 
 
 
+
 - [[p.hasDomain]] [[c.Agent]]
 - [[p.instanceOf]] [[c.Pred.Activity]]
 - [[p.equivalentPredicate]] dcterms:contributor

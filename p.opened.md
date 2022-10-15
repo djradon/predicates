@@ -7,5 +7,6 @@ created: 1637566770413
 ---
 
 
+
 - [[p.instanceOf]] [[c.Pred.Shapow]] [[c.Pred.Activity]]
 

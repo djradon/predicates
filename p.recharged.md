@@ -7,6 +7,7 @@ created: 1638116125831
 ---
 
 
+
 - [[p.hasSense]]
   - add potential energy to a battery-powered device
   - animal revitalization via rest, sleep, vacation

@@ -6,6 +6,7 @@ updated: 1644193599973
 created: 1644193335298
 ---
 
+
 - can take as objects
   - optional: something, e.g. the cupboard
     - optional: "near", "on", 

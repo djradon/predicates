@@ -6,6 +6,7 @@ updated: 1654143733373
 created: 1654143087408
 ---
 
+
 - [[p.instanceOf]] [[c.pred.community]] [[c.Pred.Communication]]
 - [[p.hasObject]] [[c.Community]]
 - [[p.hasSubject]] [[c.Agent]]

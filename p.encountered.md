@@ -7,4 +7,5 @@ created: 1637765680657
 ---
 
 
+
 - [[p.hasSense]] crossing of paths, usually unanticipated 

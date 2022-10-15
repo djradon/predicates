@@ -8,5 +8,6 @@ created: 1635661136468
 
 
 
+
 - [[p.instanceOf]] [[c.Pred.Activity]]
 - [[p.hasRange]] [[c.CreativeWork]]

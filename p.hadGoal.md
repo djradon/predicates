@@ -7,6 +7,7 @@ created: 1635669467229
 ---
 
 
+
 - [[p.hasDomain]] [[c.Agent]] [[c.Project]] 
 - [[p.hasOptionalProperty]] 
   - [[p.hadStartDate]] [[c.TimePeriod]]

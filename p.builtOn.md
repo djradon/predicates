@@ -7,6 +7,7 @@ created: 1635712798010
 ---
 
 
+
 - [[p.instanceOf]] [[c.Pred.Solution]]
 - [[p.similarTo]] [[dendron://predicates/p.extends]] 
 - [[p.vs]] [[p.builtWith]]

@@ -7,6 +7,7 @@ created: 1634653450776
 ---
 
 
+
 A subject you write or speak about.
 
 ## Thoughts

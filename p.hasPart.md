@@ -7,4 +7,5 @@ created: 1635720085467
 ---
 
 
+
 could have inverse of `partOf`

@@ -7,6 +7,7 @@ created: 1633214648543
 ---
 
 
+
 - [[p.equivalentPredicate]] skos.example
 
 

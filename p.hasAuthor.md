@@ -6,6 +6,7 @@ updated: 1662097525788
 created: 1634620266233
 ---
 
+
 writtenBy is nicer, but authorship isn't always written.
 
 authorship is literary creatorship

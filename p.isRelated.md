@@ -7,6 +7,7 @@ created: 1632287205183
 ---
 
 
+
 - [[p.instanceOf]] [[c.Pred.Conceptual]]
 
 - isn't every predicate a [[p.subPredicateOf]] this ? 

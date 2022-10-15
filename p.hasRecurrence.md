@@ -7,4 +7,5 @@ created: 1637610184755
 ---
 
 
+
 - [[p.instanceOf]] [[c.TemporalPredicate]]

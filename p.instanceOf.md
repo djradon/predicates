@@ -5,6 +5,7 @@ desc: the subject is a concrete example of a Class
 updated: 1647827798362
 created: 1633270478774
 ---
+
 - [!] replace all in-Class occurences of instanceOf referring to other classes with subClassOf
 
 - [[p.alsoKnownAs]] isA, is a, is an instance of the class

@@ -7,6 +7,7 @@ created: 1635363546028
 ---
 
 
+
 - [[p.instanceOf]] [[c.Pred.Activity]]
 - [[p.vs]] 
   -  `updated` 

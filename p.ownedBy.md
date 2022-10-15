@@ -7,5 +7,6 @@ created: 1635706096064
 ---
 
 
+
 - [[p.hasSense]] property rights
 - [[p.hasSense]] responsibility for

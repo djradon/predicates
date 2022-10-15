@@ -7,4 +7,5 @@ created: 1635745202597
 ---
 
 
+
 don't say competitors, it's not always a competition

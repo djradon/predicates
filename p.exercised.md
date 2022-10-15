@@ -7,4 +7,5 @@ created: 1641227915946
 ---
 
 
+
 - [[p.instanceOf]] [[c.Pred.Activity]]

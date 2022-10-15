@@ -7,4 +7,5 @@ created: 1638056160096
 ---
 
 
+
 - [[p.instanceOf]] [[c.Pred.Conceptual]]

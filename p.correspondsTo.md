@@ -7,6 +7,7 @@ created: 1635576144125
 ---
 
 
+
 ## Thoughts
 
 - evolved from relatesToSolution

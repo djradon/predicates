@@ -7,5 +7,6 @@ created: 1637839054370
 ---
 
 
+
 - [[p.inverseOf]] [[p.implements]]
 - [[p.instanceOf]] [[c.Pred.Solution]]

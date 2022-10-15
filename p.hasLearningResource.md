@@ -7,6 +7,7 @@ created: 1634945231808
 ---
 
 
+
 coursework, examples, articles
 
 - [[p.vs]] [[dendron://predicates/p.hasTraining]]

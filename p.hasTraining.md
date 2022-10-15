@@ -7,6 +7,7 @@ created: 1637843779405
 ---
 
 
+
 - [[p.hasDomain]] [[c.Solution]]
 - [[p.instanceOf]] [[c.Pred.Solution]]
 - [[p.similarTo]] [[p.hasLearningResource]]

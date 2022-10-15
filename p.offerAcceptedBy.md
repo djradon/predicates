@@ -7,4 +7,5 @@ created: 1636466899889
 ---
 
 
+
 - [[p.instanceOf]] [[c.Pred.Negotiation]]
