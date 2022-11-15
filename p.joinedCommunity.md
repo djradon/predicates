@@ -7,6 +7,6 @@ created: 1654143087408
 ---
 
 
-- [[p.instanceOf]] [[c.pred.community]] [[c.Pred.Communication]]
+- [[p.instanceOf]] [[c.pred.Community]] [[c.Pred.Communication]]
 - [[p.hasObject]] [[c.Community]]
 - [[p.hasSubject]] [[c.Agent]]
