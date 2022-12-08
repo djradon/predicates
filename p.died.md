@@ -1,8 +1,8 @@
 ---
 id: d5mA0SsZSKcFJFOR4eyrn
-title: Dies
+title: Died
 desc: ''
-updated: 1639951607057
+updated: 1670502269694
 created: 1639951607057
 ---
 
