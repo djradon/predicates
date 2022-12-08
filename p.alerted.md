@@ -1,8 +1,8 @@
 ---
 id: h7606zr05xbjm2v6ht6tkmr
-title: Alerted
+title: alerted
 desc: ''
-updated: 1665953069860
+updated: 1670514477856
 created: 1665952987930
 ---
 

@@ -1,8 +1,8 @@
 ---
 id: cWgFAuooRRbtoXzL2ga2d
-title: movedTowards
+title: moved towards
 desc: ''
-updated: 1641759474927
+updated: 1670510620330
 created: 1641759474927
 ---
 

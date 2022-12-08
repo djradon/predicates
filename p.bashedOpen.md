@@ -1,8 +1,8 @@
 ---
 id: dNfKrKxYfbe0ACxeX9YzV
-title: bashedOpen
+title: bashed open
 desc: ''
-updated: 1641758121593
+updated: 1670504104730
 created: 1641758111231
 ---
 
