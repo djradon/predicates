@@ -1,8 +1,8 @@
 ---
 id: 6lsz0QHsiF4S4mZi0OhP4
-title: looksOut
+title: looked out of
 desc: ''
-updated: 1641762525726
+updated: 1670515244655
 created: 1641762522665
 ---
 
