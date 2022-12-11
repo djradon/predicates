@@ -1,6 +1,6 @@
 ---
 id: 0hduzs7ck8dddx8l3k45jqp
-title: Bashed
+title: bashed
 desc: ''
 updated: 1651957507517
 created: 1651957498259

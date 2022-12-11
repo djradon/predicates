@@ -1,6 +1,6 @@
 ---
 id: jlBnI96dRaPHfyBapG7It
-title: Implements
+title: implements
 desc: ''
 updated: 1637839388588
 created: 1637813912610

@@ -1,6 +1,6 @@
 ---
 id: ZvKg6XTLIuLfjnT6DmKMY
-title: Defeated
+title: defeated
 desc: ''
 updated: 1641761889457
 created: 1641761883959

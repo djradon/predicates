@@ -1,6 +1,6 @@
 ---
 id: RPYZnGJ3fLZ80tHk0SxHW
-title: Triggered
+title: triggered
 desc: ''
 updated: 1641760005452
 created: 1641759999835

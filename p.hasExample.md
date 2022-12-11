@@ -1,6 +1,6 @@
 ---
 id: 074ZeDvQaU7DQmejEKrUn
-title: Examples
+title: examples
 desc: an instance that is typical of the group or Class
 updated: 1635574361500
 created: 1633214648543

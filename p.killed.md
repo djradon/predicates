@@ -1,6 +1,6 @@
 ---
 id: 4TaAkUekmEM8Jq7Duaujy
-title: Killed
+title: killed
 desc: ''
 updated: 1641756215303
 created: 1641756189169

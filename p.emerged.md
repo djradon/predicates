@@ -1,6 +1,6 @@
 ---
 id: JDLjfO7DRkvhb0UKF6dez
-title: Emerged
+title: emerged
 desc: ''
 updated: 1644177352892
 created: 1644177346012

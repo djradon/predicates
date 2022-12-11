@@ -1,6 +1,6 @@
 ---
 id: 1DINMEKvMDYZaCLauz7g2
-title: Recharged
+title: recharged
 desc: ''
 updated: 1638116228170
 created: 1638116125831

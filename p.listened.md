@@ -1,6 +1,6 @@
 ---
 id: v8hoj2zzXAjq2XBS4zmho
-title: Listened
+title: listened
 desc: auditory signals causing mental activity
 updated: 1635677519753
 created: 1635668799405

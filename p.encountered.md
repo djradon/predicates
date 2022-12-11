@@ -1,6 +1,6 @@
 ---
 id: a593bzjtnTiMdVHye47QE
-title: Encountered
+title: encountered
 desc: ''
 updated: 1637765836200
 created: 1637765680657

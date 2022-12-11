@@ -1,6 +1,6 @@
 ---
 id: Ejw4c6e3gqqotauuxCeIy
-title: Opened
+title: opened
 desc: ''
 updated: 1638116512061
 created: 1637566770413

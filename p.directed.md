@@ -1,6 +1,6 @@
 ---
 id: ngnm71nr2rqql1wyzvhl8zc
-title: Directed
+title: directed
 desc: ''
 updated: 1665958281997
 created: 1665958281997
