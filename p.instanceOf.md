@@ -2,11 +2,11 @@
 id: s2AA4w4SyPFu44ylTFLQH
 title: instanceOf
 desc: the subject is a concrete example of a Class
-updated: 1670514473315
+updated: 1670711528321
 created: 1633270478774
 ---
 
-- [!] replace all in-Class occurences of instanceOf referring to other classes with subClassOf
+- [ ] #gd replace all in-Class occurences of instanceOf referring to other classes with subClassOf
 
 - [[p.alsoKnownAs]] isA, is a, is an instance of the class
 - [[p.hasDomain]] [[c.Resource]]
