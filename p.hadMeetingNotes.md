@@ -8,5 +8,5 @@ created: 1635369417688
 
 
 
-- [[p.instanceOf]] [[c.Pred]]
+- [[p.instanceOf]] [[pc]]
 - [[p.hasDomain]] [[c.Meeting]]

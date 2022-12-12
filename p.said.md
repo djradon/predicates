@@ -8,4 +8,4 @@ created: 1637665861910
 
 
 
-- [[p.instanceOf]] [[c.Pred.Activity]] [[c.Pred.Communication]]
+- [[p.instanceOf]] [[pc.Activity]] [[pc.Communication]]

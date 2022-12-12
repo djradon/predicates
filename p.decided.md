@@ -8,7 +8,7 @@ created: 1634856433230
 
 
 
-- [[p.instanceOf]] [[c.Pred.Activity]]
+- [[p.instanceOf]] [[pc.Activity]]
 
 ## [[hasComment]]
 

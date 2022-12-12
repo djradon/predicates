@@ -10,5 +10,5 @@ created: 1635369296544
 
 
 - [[p.alsoKnownAs]] administered
-- [[p.instanceOf]] [[c.Pred.Activity]]
+- [[p.instanceOf]] [[pc.Activity]]
 

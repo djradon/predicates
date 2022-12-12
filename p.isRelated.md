@@ -8,7 +8,7 @@ created: 1632287205183
 
 
 
-- [[p.instanceOf]] [[c.Pred.Conceptual]]
+- [[p.instanceOf]] [[pc.Conceptual]]
 
 - isn't every predicate a [[p.subPredicateOf]] this ? 
   - should have something for unrelated ! ;)

@@ -5,5 +5,5 @@ desc: ''
 updated: 1664046442095
 created: 1664046392428
 ---
-- [[p.instanceOf]] [[c.Pred.Shapow]]
+- [[p.instanceOf]] [[pc.Shapow]]
 - part of a group

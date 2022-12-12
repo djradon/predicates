@@ -9,4 +9,4 @@ created: 1635678786376
 
 
 - [[p.alsoKnownAs]] assessed
-- [[p.instanceOf]] [[c.Pred.Activity]]
+- [[p.instanceOf]] [[pc.Activity]]

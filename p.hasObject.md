@@ -7,4 +7,4 @@ created: 1654143473795
 ---
 
 
-- [[p.instanceOf]] [[c.Pred.Discursive]] [[c.Pred.Communication]]
+- [[p.instanceOf]] [[pc.Discursive]] [[pc.Communication]]

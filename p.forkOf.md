@@ -8,4 +8,4 @@ created: 1637955161388
 
 
 
-- [[p.instanceOf]] [[c.Pred.Lineage]]
+- [[p.instanceOf]] [[pc.Lineage]]

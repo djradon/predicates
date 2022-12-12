@@ -8,9 +8,9 @@ created: 1638194463683
 
 
 
-- [[p.instanceOf]] [[c.Pred.Mental]]
+- [[p.instanceOf]] [[pc.Mental]]
 - [[p.hasDomain]] [[c.Agent]]
-- [[p.hasRange]] [[c.Pred]] 
+- [[p.hasRange]] [[pc]] 
 - [[p.vs]] [[p.planned]]
   - sure, you can plan your day but
     - I also want to be able to say when I'm doing actual planning, i.e., creating a plan to do a specific task

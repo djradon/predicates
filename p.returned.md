@@ -8,6 +8,6 @@ created: 1637949627078
 
 
 
-- [[p.instanceOf]] [[c.Pred.Shapow]]
+- [[p.instanceOf]] [[pc.Shapow]]
 - [-] add sequence diagram with conditions, ie. #temporal-logic
  

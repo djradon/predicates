@@ -8,5 +8,5 @@ created: 1638129579975
 
 
 
-- [[p.instanceOf]] [[c.Pred.Solution]]
+- [[p.instanceOf]] [[pc.Solution]]
 - [[p.correspondsTo]] [[t.cs.api]]

@@ -7,4 +7,4 @@ created: 1654145195459
 ---
 
 
-- [[p.instanceOf]] [[c.Pred.Communication]] [[c.pred.Community]]
+- [[p.instanceOf]] [[pc.Communication]] [[pc.Community]]

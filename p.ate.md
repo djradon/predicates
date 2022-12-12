@@ -8,5 +8,5 @@ created: 1636753048254
 
 
 
-- [[p.instanceOf]] [[c.Pred.Shapow]] [[c.Pred.Activity]]
+- [[p.instanceOf]] [[pc.Shapow]] [[pc.Activity]]
 - mostly for animals and food or meals

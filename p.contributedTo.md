@@ -10,6 +10,6 @@ created: 1633219269243
 
 
 - [[p.hasDomain]] [[c.Agent]]
-- [[p.instanceOf]] [[c.Pred.Activity]]
+- [[p.instanceOf]] [[pc.Activity]]
 - [[p.equivalentPredicate]] dcterms:contributor
 - [[p.similarTo]] schema:contributor

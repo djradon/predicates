@@ -7,5 +7,5 @@ created: 1651955836692
 ---
 
 
-- [[p.instanceOf]] [[c.Pred.Shapow]]
+- [[p.instanceOf]] [[pc.Shapow]]
 

@@ -8,5 +8,5 @@ created: 1635715598914
 
 
 
-- [[p.instanceOf]] [[c.Pred.Activity]] [[c.Pred.Solution]]
+- [[p.instanceOf]] [[pc.Activity]] [[pc.Solution]]
 - [[p.similarTo]] [[dendron://predicates/p.hasApplication]]

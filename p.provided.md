@@ -7,4 +7,4 @@ created: 1641359700318
 ---
 
 
-- [[p.instanceOf]] [[c.Pred.Solution]]
+- [[p.instanceOf]] [[pc.Solution]]

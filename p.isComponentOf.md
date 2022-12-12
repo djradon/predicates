@@ -6,5 +6,5 @@ updated: 1650122125492
 created: 1650122108523
 ---
 
-- [[p.instanceOf]] [[c.Pred.Solution]]
+- [[p.instanceOf]] [[pc.Solution]]
 - [[p.inverseOf]] [[p.hasComponent]]

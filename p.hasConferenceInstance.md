@@ -9,4 +9,4 @@ created: 1638590837401
 
 
 - [[p.hasDomain]] [[p.hasConferenceSeries]]
-- [[p.instanceOf]] [[c.Pred.Academic]]
+- [[p.instanceOf]] [[pc.Academic]]

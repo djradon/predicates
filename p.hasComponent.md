@@ -8,5 +8,5 @@ created: 1637839917799
 
 
 
-- [[p.instanceOf]] [[c.Pred.Solution]]
+- [[p.instanceOf]] [[pc.Solution]]
 - [[p.inverseOf]] [[p.isComponentOf]]

@@ -8,4 +8,4 @@ created: 1638198056723
 
 
 
-- [[p.instanceOf]] [[c.Pred.Mental]]
+- [[p.instanceOf]] [[pc.Mental]]

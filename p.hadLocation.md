@@ -8,4 +8,4 @@ created: 1638116677729
 
 
 
-- [[p.instanceOf]] [[c.Pred.GeoSpatial]]
+- [[p.instanceOf]] [[pc.GeoSpatial]]

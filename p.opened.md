@@ -8,5 +8,5 @@ created: 1637566770413
 
 
 
-- [[p.instanceOf]] [[c.Pred.Shapow]] [[c.Pred.Activity]]
+- [[p.instanceOf]] [[pc.Shapow]] [[pc.Activity]]
 

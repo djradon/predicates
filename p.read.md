@@ -9,5 +9,5 @@ created: 1635661136468
 
 
 
-- [[p.instanceOf]] [[c.Pred.Activity]]
+- [[p.instanceOf]] [[pc.Activity]]
 - [[p.hasRange]] [[c.CreativeWork]]

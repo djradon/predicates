@@ -9,7 +9,7 @@ created: 1636394879577
 
 
 
-- [[p.instanceOf]] [[c.Pred.Activity]]
+- [[p.instanceOf]] [[pc.Activity]]
 - [[p.hasSense]]
   - direct somebody (to do something)
   - purchase something (for later delivery)

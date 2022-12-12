@@ -8,4 +8,4 @@ created: 1637645072446
 
 
 
-- [[p.instanceOf]] [[c.Pred.Familial]]
+- [[p.instanceOf]] [[pc.Familial]]

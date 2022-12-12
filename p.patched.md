@@ -8,7 +8,7 @@ created: 1635363546028
 
 
 
-- [[p.instanceOf]] [[c.Pred.Activity]]
+- [[p.instanceOf]] [[pc.Activity]]
 - [[p.vs]] 
   -  `updated` 
      -  might be more general, but that's overloaded in [[soln.yaml.frontmatter]]

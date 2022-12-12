@@ -8,7 +8,7 @@ created: 1641228381357
 
 
 
-- [[p.instanceOf]] [[c.Pred.Activity]]
+- [[p.instanceOf]] [[pc.Activity]]
 - [[p.similarTo]] [[dendron://predicates/p.metWith]]
   - to meet with someone implies
     - pre-arrangement

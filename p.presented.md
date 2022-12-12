@@ -8,4 +8,4 @@ created: 1635728177204
 
 
 
-- [[p.instanceOf]] [[c.Pred.Activity]] [[c.Pred.Solution]]
+- [[p.instanceOf]] [[pc.Activity]] [[pc.Solution]]

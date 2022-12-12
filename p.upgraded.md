@@ -8,5 +8,5 @@ created: 1635678101296
 
 
 
-- [[p.instanceOf]] [[c.Pred.Activity]]
+- [[p.instanceOf]] [[pc.Activity]]
 

@@ -8,5 +8,5 @@ created: 1641769442908
 
 
 
-- [[p.instanceOf]] [[c.Pred.Shapow]]
+- [[p.instanceOf]] [[pc.Shapow]]
 - [[p.similarTo]] [[p.perceived]]

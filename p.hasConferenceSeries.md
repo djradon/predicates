@@ -8,5 +8,5 @@ created: 1638375128872
 
 
 
-- [[p.instanceOf]] [[c.Pred.Academic]] [[c.Pred.Business]]
+- [[p.instanceOf]] [[pc.Academic]] [[pc.Business]]
 - [[p.hasDomain]] [[c.Organization]] [[c.Community]] [[c.Topic]]

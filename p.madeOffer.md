@@ -8,5 +8,5 @@ created: 1636431555965
 
 
 
-- [[p.instanceOf]] [[c.Pred.Negotiation]]
+- [[p.instanceOf]] [[pc.Negotiation]]
 
