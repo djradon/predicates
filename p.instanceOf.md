@@ -6,12 +6,11 @@ updated: 1670711528321
 created: 1633270478774
 ---
 
-- [ ] #gd replace all in-Class occurences of instanceOf referring to other classes with subClassOf
 
 - [[p.alsoKnownAs]] isA, is a, is an instance of the class
 - [[p.hasDomain]] [[c.Resource]]
 - [[p.hasRange]] [[c.Class]]
-- [[p.instanceOf]] [[pc]] 
+- [[p.instanceOf]] [[pc.Ontological]] 
 - [[p.equivalentPredicate]] [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type)
 - [[p.inverseOf]] ???
   - [ ] important thing to have a name for, maybe "hasInstance"  or classOf
@@ -25,3 +24,8 @@ created: 1633270478774
   - it feels like, colloquially, "type" is ambiguous between hasType and isTypeOf; the latter can mean  something more like subClassOf
 - isA is nice and compact, but maybe feels ambiguous for classes, e.g. "[a] digital garden is a website" 
 - 
+
+## log
+
+- [x] #gd replace all in-Class occurences of instanceOf referring to other classes with subClassOf
+  [[2022.12.12]] there was only one... [[c.DSL]]
