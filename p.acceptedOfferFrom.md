@@ -7,4 +7,4 @@ created: 1663872746435
 ---
 
 - [[p.instanceOf]] [[pc.Negotiation]]
-- [[p.inverseOf]] [[p.offerAcceptedBy]]
+- [[p.inverseOf]] [[p.hadOfferAcceptedBy]]

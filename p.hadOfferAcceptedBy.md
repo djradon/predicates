@@ -1,10 +1,10 @@
 ---
 id: EbZQ5UB58jm63wf1s45x2
-title: offerAcceptedBy
+title: had offer accepted by
 desc: ''
-updated: 1670779067442
+updated: 1670911819627
 created: 1636466899889
 ---
 
 - [[p.instanceOf]] [[pc.Negotiation]]
-- [[p.inverseOf]] [[p.offerAcceptedBy]]
+- [[p.inverseOf]] [[p.hadOfferAcceptedBy]]
