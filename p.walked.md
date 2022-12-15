@@ -2,10 +2,10 @@
 id: sw1aXgYA4vz0KjIQtXS0Z
 title: walked
 desc: ''
-updated: 1637968598304
+updated: 1671115877115
 created: 1637968469157
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]] 
+- [[c.Sphere]] [[sphere.Activity]] 

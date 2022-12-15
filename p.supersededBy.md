@@ -2,10 +2,10 @@
 id: Pu0pTEF9FOlYfHaeq679w
 title: supersededBy
 desc: ''
-updated: 1637853329607
+updated: 1671115877131
 created: 1637853319458
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Solution]]
+- [[c.Sphere]] [[sphere.Solution]]

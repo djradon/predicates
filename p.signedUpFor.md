@@ -2,11 +2,11 @@
 id: wph8F1CjVFTReGExD3rBI
 title: signedUpFor
 desc: ''
-updated: 1635676623443
+updated: 1671115877147
 created: 1635676581668
 ---
 
 
 
 - [[p.alsoKnownAs]] created account for, volunteered for
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]

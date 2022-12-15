@@ -2,10 +2,10 @@
 id: ol93faSv14nH6ib7ccM0V
 title: ran
 desc: ''
-updated: 1641756129305
+updated: 1671115877172
 created: 1641756120854
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

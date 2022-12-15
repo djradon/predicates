@@ -2,8 +2,8 @@
 id: bi4xlqvcfzsilj6lxwn807s
 title: stood
 desc: ''
-updated: 1664045546798
+updated: 1671115877135
 created: 1664045543955
 ---
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

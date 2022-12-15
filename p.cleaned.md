@@ -2,10 +2,10 @@
 id: NwGxKSkiaBOs3kE0nKW56
 title: cleaned
 desc: ''
-updated: 1641228271583
+updated: 1671115877287
 created: 1638702190679
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]

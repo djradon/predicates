@@ -2,8 +2,8 @@
 id: et5N3ljess5e6279IKNPR
 title: motioned
 desc: ''
-updated: 1644182480215
+updated: 1671115877194
 created: 1644182476123
 ---
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

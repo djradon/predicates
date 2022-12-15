@@ -2,13 +2,13 @@
 id: Mo709elXOBnclvokUDKMU
 title: intendedTo
 desc: ''
-updated: 1638198123161
+updated: 1671115877110
 created: 1638194463683
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Mental]]
+- [[c.Sphere]] [[sphere.Mental]]
 - [[p.hasDomain]] [[c.Agent]]
 - [[p.hasRange]] [[pc]] 
 - [[p.vs]] [[p.planned]]

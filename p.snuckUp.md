@@ -2,10 +2,10 @@
 id: zjJy34anrlEVG4JpCXalV
 title: snuckUp
 desc: ''
-updated: 1641755726344
+updated: 1671115877142
 created: 1641755348861
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

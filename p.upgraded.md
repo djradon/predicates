@@ -2,11 +2,11 @@
 id: MTt8HseBRmjnZtI5vzpQM
 title: upgraded
 desc: got some new functionality
-updated: 1635678140449
+updated: 1671115877116
 created: 1635678101296
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]
 

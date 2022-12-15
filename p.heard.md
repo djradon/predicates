@@ -2,10 +2,10 @@
 id: IeisoA2jz2dKLkrlEHJjl
 title: heard
 desc: ''
-updated: 1641757076307
+updated: 1671115877211
 created: 1641757070975
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

@@ -2,8 +2,8 @@
 id: 4BSTxoqVCJvtmLYwQSIoy
 title: threw
 desc: ''
-updated: 1644184474364
+updated: 1671115877124
 created: 1644184470229
 ---
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

@@ -2,10 +2,10 @@
 id: ekTODSYmS41vMtVt3luDM
 title: retreated
 desc: ''
-updated: 1641761430834
+updated: 1671115877161
 created: 1641761426000
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

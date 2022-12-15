@@ -2,9 +2,9 @@
 id: 4f8g42jft9psd94nx7w099k
 title: landed
 desc: ''
-updated: 1651963495406
+updated: 1671115877202
 created: 1651963481039
 ---
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

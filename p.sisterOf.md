@@ -2,8 +2,8 @@
 id: Sk0YHbKHfaaMrCiWyvG7E
 title: sisterOf
 desc: ''
-updated: 1644178079467
+updated: 1671115877146
 created: 1644178072056
 ---
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

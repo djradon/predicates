@@ -2,10 +2,10 @@
 id: xOWC0q0KKhXZfXNw5mPa9
 title: hasScriptingLanguage
 desc: ''
-updated: 1637592305305
+updated: 1671115877215
 created: 1637592273946
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Solution]]
+- [[c.Sphere]] [[sphere.Solution]]

@@ -2,8 +2,8 @@
 id: GZXXNqWt9q1IEfOLMEYwN
 title: chanted
 desc: ''
-updated: 1644190424441
+updated: 1671115877291
 created: 1644190419155
 ---
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

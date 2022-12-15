@@ -2,9 +2,9 @@
 id: qiOYmqTjUhOA31FQNH0WV
 title: hailed
 desc: ''
-updated: 1644174585169
+updated: 1671115877232
 created: 1644174578345
 ---
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

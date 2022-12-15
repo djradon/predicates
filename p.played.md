@@ -2,13 +2,13 @@
 id: UNi5voTS80UUouCKRp9Hz
 title: played
 desc: ''
-updated: 1637046680338
+updated: 1671115877181
 created: 1636882867755
 ---
 
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]
 - [[p.hasRange]] [[c.Game]] [[c.ComputerGame]]
 

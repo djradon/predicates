@@ -2,8 +2,8 @@
 id: coqwac1bmlfic7dnifxat7q
 title: memberOf
 desc: ''
-updated: 1664046442095
+updated: 1671115877196
 created: 1664046392428
 ---
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]
 - part of a group

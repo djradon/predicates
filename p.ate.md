@@ -2,11 +2,11 @@
 id: LlUQmqesFOxGeylPJFTe2
 title: ate
 desc: ''
-updated: 1638116476797
+updated: 1671115930621
 created: 1636753048254
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Shapow]] [[sphere.Activity]]
 - mostly for animals and food or meals

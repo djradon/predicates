@@ -2,7 +2,7 @@
 id: W8LXUivS3vlWnad0Yf5h6
 title: improved
 desc: ''
-updated: 1635889707931
+updated: 1671115877207
 created: 1635889667380
 ---
 
@@ -11,4 +11,4 @@ created: 1635889667380
 
 leave it better than you found it
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]

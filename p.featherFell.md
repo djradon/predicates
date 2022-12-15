@@ -2,10 +2,10 @@
 id: gFpSjeO0GWPtBuFTNHsHC
 title: featherFell
 desc: ''
-updated: 1641764522948
+updated: 1671115877252
 created: 1641764512818
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

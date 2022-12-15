@@ -2,11 +2,11 @@
 id: jAuyRsVfMULglwyPH11dR
 title: analyzed
 desc: ''
-updated: 1637005226797
+updated: 1671115929146
 created: 1637005214792
 ---
 
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]

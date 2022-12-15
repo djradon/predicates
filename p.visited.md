@@ -2,10 +2,10 @@
 id: u6IwSliIshCelSdbkNlTP
 title: visited
 desc: ''
-updated: 1638116006264
+updated: 1671115877116
 created: 1638115992907
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]

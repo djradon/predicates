@@ -2,9 +2,9 @@
 id: 631b3cneg2hah4dula4n7df
 title: flew
 desc: ''
-updated: 1649012517236
+updated: 1671115877245
 created: 1649012517236
 ---
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

@@ -2,11 +2,11 @@
 id: L0nDVcOQL2SwUjyPiut42
 title: demonstrated
 desc: ''
-updated: 1635890719536
+updated: 1671115877310
 created: 1635890701911
 ---
 
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]

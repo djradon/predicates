@@ -2,11 +2,11 @@
 id: 3GfRGDOckz2FBtMMSobng
 title: hasConferenceSeries
 desc: ''
-updated: 1638591086432
+updated: 1671115930616
 created: 1638375128872
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Academic]] [[pc.Business]]
+- [[c.Sphere]] [[sphere.Academic]] [[sphere.Business]]
 - [[p.hasDomain]] [[c.Organization]] [[c.Community]] [[c.Topic]]

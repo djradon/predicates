@@ -2,10 +2,10 @@
 id: 4TaAkUekmEM8Jq7Duaujy
 title: killed
 desc: ''
-updated: 1641756215303
+updated: 1671115877205
 created: 1641756189169
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

@@ -2,10 +2,10 @@
 id: NUBDtyVYFlb549WtSo7NU
 title: hadSense
 desc: ''
-updated: 1644173760759
+updated: 1671115877235
 created: 1644173742420
 ---
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]
 - 

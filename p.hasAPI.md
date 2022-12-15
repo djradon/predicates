@@ -2,11 +2,11 @@
 id: 09ZVTiAdZfNQ1vSl7thu2
 title: hasAPI
 desc: ''
-updated: 1638130575839
+updated: 1671115877230
 created: 1638129579975
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Solution]]
+- [[c.Sphere]] [[sphere.Solution]]
 - [[p.correspondsTo]] [[t.cs.api]]

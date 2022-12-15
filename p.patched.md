@@ -2,13 +2,13 @@
 id: RJuPlexalO3DKKCvJgw50
 title: patched
 desc: ''
-updated: 1635678101361
+updated: 1671115877183
 created: 1635363546028
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]
 - [[p.vs]] 
   -  `updated` 
      -  might be more general, but that's overloaded in [[soln.yaml.frontmatter]]

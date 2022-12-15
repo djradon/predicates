@@ -2,9 +2,9 @@
 id: een8kfjqoo8n8ej04u3lrlc
 title: isComponentOf
 desc: ''
-updated: 1650122125492
+updated: 1671115877104
 created: 1650122108523
 ---
 
-- [[p.instanceOf]] [[pc.Solution]]
+- [[c.Sphere]] [[sphere.Solution]]
 - [[p.inverseOf]] [[p.hasComponent]]

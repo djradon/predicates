@@ -2,9 +2,9 @@
 id: UFdvZADGChuEzz60KL9IG
 title: hasExtension
 desc: ''
-updated: 1645299348957
+updated: 1671115877222
 created: 1645299329066
 ---
 
 
-- [[p.instanceOf]] [[pc.Solution]]
+- [[c.Sphere]] [[sphere.Solution]]

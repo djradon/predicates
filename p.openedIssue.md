@@ -2,11 +2,11 @@
 id: GYSpKJ4r9meeoBc5QBdW1
 title: openedIssue
 desc: ''
-updated: 1635679155127
+updated: 1671115877187
 created: 1635679151866
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]
 

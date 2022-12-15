@@ -2,11 +2,11 @@
 id: 5BT72iDulgDpG8z7Ir6Jv
 title: managedDomainNames
 desc: ''
-updated: 1635678534033
+updated: 1671115877197
 created: 1635678512263
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]
 

@@ -2,10 +2,10 @@
 id: oQy2e4JXS2daYcU49WCvR
 title: connected
 desc: ''
-updated: 1641761175818
+updated: 1671115877280
 created: 1641761163771
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

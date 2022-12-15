@@ -2,10 +2,10 @@
 id: MMibsZ2SnprQNQEb97kCc
 title: closed
 desc: ''
-updated: 1637949993066
+updated: 1671115930618
 created: 1637949471108
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Activity]] [[sphere.Shapow]]

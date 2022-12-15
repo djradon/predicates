@@ -2,8 +2,8 @@
 id: 5et8fzliw3ispqx2ou8qrss
 title: disappeared
 desc: ''
-updated: 1664045311348
+updated: 1671115877266
 created: 1664045311348
 ---
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]
 

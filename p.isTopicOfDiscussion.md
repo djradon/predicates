@@ -2,10 +2,10 @@
 id: i9YO8Z7TUEkxLONAPYgu9
 title: isTopicOfDiscussion
 desc: ''
-updated: 1637846923104
+updated: 1671115877097
 created: 1637846915029
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Discursive]]
+- [[c.Sphere]] [[sphere.Discursive]]

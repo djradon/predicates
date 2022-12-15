@@ -2,11 +2,11 @@
 id: iXQ7NCfH5nlAWdHRERe0b
 title: reconfigured
 desc: ''
-updated: 1637046682935
+updated: 1671115877168
 created: 1637046645525
 ---
 
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]

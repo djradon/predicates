@@ -2,10 +2,10 @@
 id: RWDNe8G4Fx7ivJwCOYxjA
 title: summarized
 desc: provide a statement of the main points of a work or features of a solution
-updated: 1635676649574
+updated: 1671115877132
 created: 1635661937503
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]

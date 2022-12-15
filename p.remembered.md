@@ -2,10 +2,10 @@
 id: eaHgnEEuHR4GQlkzAzt7y
 title: remembered
 desc: ''
-updated: 1670510990448
+updated: 1671115877164
 created: 1641758701168
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

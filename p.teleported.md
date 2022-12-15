@@ -2,9 +2,9 @@
 id: y6Ie6z3l94xnL6xl3z7HV
 title: teleported
 desc: ''
-updated: 1644179026366
+updated: 1671115877127
 created: 1644179020303
 ---
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

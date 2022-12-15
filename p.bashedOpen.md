@@ -2,10 +2,10 @@
 id: dNfKrKxYfbe0ACxeX9YzV
 title: bashed open
 desc: ''
-updated: 1670504104730
+updated: 1671115877299
 created: 1641758111231
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

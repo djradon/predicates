@@ -2,11 +2,11 @@
 id: yuC1UAU2eaclsOgUE41bP
 title: informed
 desc: ''
-updated: 1635679294654
+updated: 1671115877112
 created: 1635679285643
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]
 

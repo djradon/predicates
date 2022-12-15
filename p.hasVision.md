@@ -2,10 +2,10 @@
 id: VHyxsuguTmciBoQyKOFoc
 title: hasVision
 desc: ''
-updated: 1638042312554
+updated: 1671115930614
 created: 1638042258046
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Solution]] [[pc.Conceptual]]
+- [[c.Sphere]] [[sphere.Solution]] [[sphere.Conceptual]]

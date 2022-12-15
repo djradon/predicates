@@ -2,9 +2,9 @@
 id: yi8yc3zt22u6eh7ypvda3hl
 title: hasCallToAction
 desc: ''
-updated: 1654145238214
+updated: 1671115930616
 created: 1654145195459
 ---
 
 
-- [[p.instanceOf]] [[pc.Communication]] [[pc.Community]]
+- [[c.Sphere]] [[sphere.Communication]] [[sphere.Community]]

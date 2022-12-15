@@ -2,13 +2,13 @@
 id: D0FMQEEFf8bj5484XvEJU
 title: decided
 desc: a decisive predicate
-updated: 1635677377909
+updated: 1671115877272
 created: 1634856433230
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]
 
 ## [[hasComment]]
 

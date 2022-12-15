@@ -2,9 +2,9 @@
 id: 0hduzs7ck8dddx8l3k45jqp
 title: bashed
 desc: ''
-updated: 1651957507517
+updated: 1671115877300
 created: 1651957498259
 ---
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

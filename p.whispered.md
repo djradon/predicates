@@ -2,10 +2,10 @@
 id: QEjREVRHMfGcfiqy6RVvw
 title: whispered
 desc: ''
-updated: 1670511022370
+updated: 1671115877169
 created: 1641759311180
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

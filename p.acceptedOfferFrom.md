@@ -2,9 +2,9 @@
 id: ms1ny1ysxbw7u78v3l4ktma
 title: acceptedOfferFrom
 desc: ''
-updated: 1670781101906
+updated: 1671115929152
 created: 1663872746435
 ---
 
-- [[p.instanceOf]] [[pc.Negotiation]]
+- [[c.Sphere]] [[sphere.Negotiation]]
 - [[p.inverseOf]] [[p.hadOfferAcceptedBy]]

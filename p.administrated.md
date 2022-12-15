@@ -2,7 +2,7 @@
 id: 78frFBtwJHWi6KwFZs26s
 title: administrated
 desc: ''
-updated: 1635786484539
+updated: 1671115929148
 created: 1635369296544
 ---
 
@@ -10,5 +10,5 @@ created: 1635369296544
 
 
 - [[p.alsoKnownAs]] administered
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]
 

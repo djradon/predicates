@@ -2,9 +2,9 @@
 id: 9bQ5YQ7s7FkAiEK3Bil7T
 title: grabbed
 desc: ''
-updated: 1641772488320
+updated: 1671115877240
 created: 1641772440695
 ---
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

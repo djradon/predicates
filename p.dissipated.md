@@ -2,10 +2,10 @@
 id: ZdAm9YTmBZ2TjviQXOSEu
 title: dissipated
 desc: ''
-updated: 1641762354729
+updated: 1671115877263
 created: 1641762342930
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

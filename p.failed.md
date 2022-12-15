@@ -2,8 +2,8 @@
 id: BPdbE8XFnU75D1yO5K4JD
 title: failed
 desc: ''
-updated: 1644183557516
+updated: 1671115877251
 created: 1644183551379
 ---
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

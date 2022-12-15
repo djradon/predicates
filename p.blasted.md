@@ -2,8 +2,8 @@
 id: jVSJOXt5ParDOMVG676Lr
 title: blasted
 desc: ''
-updated: 1644180798352
+updated: 1671115877297
 created: 1644180793279
 ---
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

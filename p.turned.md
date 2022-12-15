@@ -2,9 +2,9 @@
 id: o6cbtgd72n0n93anrr6apml
 title: turned
 desc: ''
-updated: 1651955826692
+updated: 1671115877118
 created: 1651955823178
 ---
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

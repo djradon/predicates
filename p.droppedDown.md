@@ -2,10 +2,10 @@
 id: ijXvBXfHhvFPWpKx47ccC
 title: droppedDown
 desc: ''
-updated: 1641755064856
+updated: 1671115877261
 created: 1641755036560
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

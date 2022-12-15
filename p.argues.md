@@ -2,10 +2,10 @@
 id: lWLvdr8kCvIlJOMLY1sGj
 title: argues
 desc: ''
-updated: 1637406004529
+updated: 1671115877312
 created: 1637405974573
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Discursive]]
+- [[c.Sphere]] [[sphere.Discursive]]

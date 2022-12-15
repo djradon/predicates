@@ -2,10 +2,10 @@
 id: RPYZnGJ3fLZ80tHk0SxHW
 title: triggered
 desc: ''
-updated: 1641760005452
+updated: 1671115877119
 created: 1641759999835
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

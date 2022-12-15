@@ -2,8 +2,8 @@
 id: UARVbZAVkaX1jQsI8unrJ
 title: restrained
 desc: ''
-updated: 1644184101808
+updated: 1671115877162
 created: 1644184085790
 ---
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

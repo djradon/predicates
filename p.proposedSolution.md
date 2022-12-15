@@ -2,11 +2,11 @@
 id: z5nQ8pghUBH8pvtG0BgFm
 title: proposedSolution
 desc: ''
-updated: 1635956158104
+updated: 1671115877177
 created: 1635956150611
 ---
 
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]

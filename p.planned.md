@@ -2,11 +2,11 @@
 id: 1gZX0dGZzfOrBONaK2teW
 title: planned
 desc: hopefully will be doing more of this
-updated: 1635717570952
+updated: 1671115877182
 created: 1635717556082
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]
 

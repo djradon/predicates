@@ -2,10 +2,10 @@
 id: m6L8DXlXrtXMgbKxPCxwa
 title: emailed
 desc: ''
-updated: 1635678570968
+updated: 1671115877259
 created: 1635678563258
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]

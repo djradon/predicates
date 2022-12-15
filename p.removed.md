@@ -2,8 +2,8 @@
 id: z3ktlj9aff2f4zkyqns2cff
 title: removed
 desc: ''
-updated: 1665957351142
+updated: 1671115877229
 created: 1665957351142
 ---
 
-- - [[p.instanceOf]] [[pc.Shapow]]
+- - [[c.Sphere]] [[sphere.Shapow]]

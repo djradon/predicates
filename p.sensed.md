@@ -2,9 +2,9 @@
 id: ucv0tcx0khbjocnitph743o
 title: sensed
 desc: ''
-updated: 1649012453894
+updated: 1671115877150
 created: 1649012453894
 ---
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

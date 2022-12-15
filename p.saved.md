@@ -2,8 +2,8 @@
 id: cLhPrwYCwwk4OMDv0IuVr
 title: saved
 desc: ''
-updated: 1644184646747
+updated: 1671115877153
 created: 1644184642019
 ---
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

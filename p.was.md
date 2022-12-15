@@ -2,8 +2,8 @@
 id: 2zj9ofwvj44i2zx0wgntyki
 title: was
 desc: ''
-updated: 1664049738518
+updated: 1671115877216
 created: 1664049738518
 ---
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

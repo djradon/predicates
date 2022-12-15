@@ -2,9 +2,9 @@
 id: jxjkcrllejl3632jk2b24kq
 title: punched
 desc: ''
-updated: 1651955995250
+updated: 1671115877175
 created: 1651955993172
 ---
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

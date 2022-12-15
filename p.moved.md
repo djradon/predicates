@@ -2,11 +2,11 @@
 id: yD41Yimi2Y9xk4yGuL8nb
 title: moved
 desc: ''
-updated: 1636996941334
+updated: 1671115877193
 created: 1636996906337
 ---
 
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]

@@ -2,10 +2,10 @@
 id: Iz5R0UkWltitxqJN4hyi7
 title: thought
 desc: ''
-updated: 1635783459669
+updated: 1671115877124
 created: 1635783411362
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]

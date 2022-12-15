@@ -2,9 +2,9 @@
 id: C8C0Qpcfa12R23aowF9AS
 title: solvesProblem
 desc: ''
-updated: 1644146521544
+updated: 1671115877141
 created: 1644146468792
 ---
 
 
-- [[p.instanceOf]] [[pc.Solution]]
+- [[c.Sphere]] [[sphere.Solution]]

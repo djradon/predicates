@@ -2,8 +2,8 @@
 id: dpqkw62vbti8jy08mrsuwk2
 title: pushed
 desc: ''
-updated: 1664044858614
+updated: 1671115877175
 created: 1664044741629
 ---
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

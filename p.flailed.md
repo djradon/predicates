@@ -2,8 +2,8 @@
 id: 4g2g5nuiie1znw1141zxepp
 title: flailed
 desc: ''
-updated: 1664043289136
+updated: 1671115877246
 created: 1664043283064
 ---
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

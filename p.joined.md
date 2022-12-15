@@ -2,7 +2,7 @@
 id: whbht8dnikpibt6y7weqajd
 title: joined
 desc: ''
-updated: 1664050724070
+updated: 1671115877109
 created: 1664050724070
 ---
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

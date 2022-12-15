@@ -2,7 +2,7 @@
 id: n9qsahlzv9z555ly0jwmbm8
 title: escaped
 desc: ''
-updated: 1664047242271
+updated: 1671115877259
 created: 1664047231336
 ---
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

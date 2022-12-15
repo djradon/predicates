@@ -2,11 +2,11 @@
 id: BWbXYkjTb3x2EpifSdqVY
 title: discovered
 desc: one of the best predicates
-updated: 1635677403624
+updated: 1671115877265
 created: 1635377389062
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]
 

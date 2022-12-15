@@ -2,10 +2,10 @@
 id: 1g22iu2kv98tjhvmqy6m4i1
 title: hasExtensionMechanism
 desc: ''
-updated: 1649603823092
+updated: 1671115877223
 created: 1649603823092
 ---
 
 
-- [[p.instanceOf]] [[pc.Solution]]
+- [[c.Sphere]] [[sphere.Solution]]
 

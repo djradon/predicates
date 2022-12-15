@@ -8,5 +8,5 @@ created: 1641769442908
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]
 - [[p.similarTo]] [[p.perceived]]

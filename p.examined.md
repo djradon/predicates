@@ -2,10 +2,10 @@
 id: KI0p2MFMv3eYu80GKfckE
 title: examined
 desc: ''
-updated: 1641760064104
+updated: 1671115877255
 created: 1641760057483
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

@@ -2,10 +2,10 @@
 id: 1RnxrDmrIwLyV2CVNRlec
 title: movedTo
 desc: ''
-updated: 1641762079996
+updated: 1671115877191
 created: 1641762070995
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

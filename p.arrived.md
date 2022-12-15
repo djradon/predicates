@@ -2,9 +2,9 @@
 id: bj6qnqm3mqs7t5n549v61r3
 title: arrived
 desc: ''
-updated: 1651955858487
+updated: 1671115877315
 created: 1651955855829
 ---
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

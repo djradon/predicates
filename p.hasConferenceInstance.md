@@ -2,11 +2,11 @@
 id: v7rwjl8dP4UMuwIVSiUPp
 title: hasConferenceInstance
 desc: ''
-updated: 1638590876545
+updated: 1671115877224
 created: 1638590837401
 ---
 
 
 
 - [[p.hasDomain]] [[p.hasConferenceSeries]]
-- [[p.instanceOf]] [[pc.Academic]]
+- [[c.Sphere]] [[sphere.Academic]]

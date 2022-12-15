@@ -2,11 +2,11 @@
 id: sLznyM6M02glgPWzOAlI1
 title: madeOffer
 desc: requisite part of a negotiation
-updated: 1637798627553
+updated: 1671115877199
 created: 1636431555965
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Negotiation]]
+- [[c.Sphere]] [[sphere.Negotiation]]
 

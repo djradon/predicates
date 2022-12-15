@@ -2,8 +2,8 @@
 id: WrFJWbKyXbarplE60j3yf
 title: approached
 desc: ''
-updated: 1644183473718
+updated: 1671115877314
 created: 1644183467503
 ---
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

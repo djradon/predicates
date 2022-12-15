@@ -2,10 +2,10 @@
 id: pmsj429eqY3n7CkppNDOD
 title: refutes
 desc: ''
-updated: 1637405789661
+updated: 1671115930610
 created: 1637405609393
 ---
 
 
 
-[[p.instanceOf]] [[pc.Activity]] [[pc.Discursive]]
+[[c.Sphere]] [[sphere.Activity]] [[sphere.Discursive]]

@@ -2,11 +2,11 @@
 id: xJMq9C5p0fV9nBcXnT9zD
 title: offboarded
 desc: ''
-updated: 1637244720497
+updated: 1671115877188
 created: 1637244704328
 ---
 
 
 
 
-- [[p.instanceOf]] [[pc.Activity]]
+- [[c.Sphere]] [[sphere.Activity]]

@@ -2,7 +2,7 @@
 id: 9JaCTG7XPU0rpOW6xEcwr
 title: hasIssue
 desc: ''
-updated: 1637407331892
+updated: 1671115877218
 created: 1631308982222
 ---
 
@@ -11,5 +11,5 @@ created: 1631308982222
 If you care about the solution, unreported issues get reported.
 
 - [[p.alsoKnownAs]] has issues, problems, challenges. 
-- [[p.instanceOf]] [[pc.Solution]]
+- [[c.Sphere]] [[sphere.Solution]]
   

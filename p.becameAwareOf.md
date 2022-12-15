@@ -2,9 +2,9 @@
 id: QLL7vOUZeRN8W1S1GmPOA
 title: becameAwareOf
 desc: ''
-updated: 1646156855188
+updated: 1671115877298
 created: 1646156836834
 ---
 
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]

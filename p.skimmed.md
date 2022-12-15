@@ -2,10 +2,10 @@
 id: S8mFehgdhcvXn1fZz2hlN
 title: skimmed
 desc: trying to get the fat off with as little effort as possible
-updated: 1638075191762
+updated: 1671115930607
 created: 1638054588520
 ---
 
 
 
-- [[p.instanceOf]] [[pc.Activity]] [[pc.Discursive]]
+- [[c.Sphere]] [[sphere.Activity]] [[sphere.Discursive]]

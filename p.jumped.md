@@ -2,8 +2,8 @@
 id: rCfMPXCO8P42DFeAdWFhW
 title: jumped
 desc: ''
-updated: 1644187257291
+updated: 1671115877093
 created: 1644187251208
 ---
 
-- [[p.instanceOf]] [[pc.Shapow]]
+- [[c.Sphere]] [[sphere.Shapow]]
