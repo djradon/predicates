@@ -2,10 +2,10 @@
 id: ZcdPdBTYNGexcMCvje77f
 title: claimedBy
 desc: ''
-updated: 1671115877289
+updated: 1671318839098
 created: 1638056339078
 ---
 
 
 
-- [[c.Sphere]] [[sphere.Discursive]]
+- [[c.Sphere]] #discursive

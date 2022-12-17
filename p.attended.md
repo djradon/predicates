@@ -2,11 +2,11 @@
 id: pnvvaGdGxCl3bhXeT5bKE
 title: attended
 desc: ''
-updated: 1671115877305
+updated: 1671318839114
 created: 1635836257310
 ---
 
 
 
 
-- [[c.Sphere]] [[sphere.Activity]]
+- [[c.Sphere]] #activity

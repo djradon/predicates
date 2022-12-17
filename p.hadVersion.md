@@ -2,9 +2,9 @@
 id: f8bWB0w8p9WUSCYVnp1NJ
 title: hadVersion
 desc: ''
-updated: 1671115877233
+updated: 1671319951012
 created: 1645301617756
 ---
 
 
-- [[c.Sphere]] [[sphere.Solution]]
+- [[c.Sphere]] #product-management

@@ -2,8 +2,8 @@
 id: jYb8BsaZMtk5AntEZGdVC
 title: hit
 desc: ''
-updated: 1671115877210
+updated: 1671318838942
 created: 1644183973159
 ---
 
-- [[c.Sphere]] [[sphere.Shapow]]
+- [[c.Sphere]] #shapow

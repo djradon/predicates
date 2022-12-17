@@ -2,13 +2,13 @@
 id: EwLIXH0cT3ZaH3AzHl1Bv
 title: considered
 desc: mental activity around a subject
-updated: 1671115877282
+updated: 1671318839093
 created: 1635677574271
 ---
 
 
 
-- [[c.Sphere]] [[sphere.Activity]]
+- [[c.Sphere]] #activity
 
 ## thoughts
 

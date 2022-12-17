@@ -2,10 +2,10 @@
 id: VHyxsuguTmciBoQyKOFoc
 title: hasVision
 desc: ''
-updated: 1671115930614
+updated: 1671319950998
 created: 1638042258046
 ---
 
 
 
-- [[c.Sphere]] [[sphere.Solution]] [[sphere.Conceptual]]
+- [[c.Sphere]] #product-management #conceptual

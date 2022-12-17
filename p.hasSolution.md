@@ -2,10 +2,10 @@
 id: AI7AGJNofzc7sIk0p4jEq
 title: hasSolution
 desc: ''
-updated: 1671115877214
+updated: 1671319950991
 created: 1637838714150
 ---
 
 
 
-- [[c.Sphere]] [[sphere.Solution]]
+- [[c.Sphere]] #product-management

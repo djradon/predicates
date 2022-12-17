@@ -2,13 +2,13 @@
 id: RJuPlexalO3DKKCvJgw50
 title: patched
 desc: ''
-updated: 1671120448485
+updated: 1671318838975
 created: 1635363546028
 ---
 
 
 
-- [[c.Sphere]] [[sphere.Activity]]
+- [[c.Sphere]] #activity
 - [[p.vs]] 
   -  `updated` 
      -  might be more general, but that's overloaded in [[prdct.yaml.frontmatter]]

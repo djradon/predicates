@@ -2,13 +2,13 @@
 id: UkrTl5xMh45SMAfs7ei9L
 title: isRelated
 desc: A good candidate for "Default Predicate"
-updated: 1671311867933
+updated: 1671318839046
 created: 1632287205183
 ---
 
 
 
-- [[c.Sphere]] [[sphere.conceptual]]
+- [[c.Sphere]] #conceptual
 
 - isn't every predicate a [[p.
   - should have something for unrelated ! ;)

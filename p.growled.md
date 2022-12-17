@@ -2,9 +2,9 @@
 id: b7O1PLCStpoGmASG7txfA
 title: growled
 desc: ''
-updated: 1671115877238
+updated: 1671318839057
 created: 1644178823771
 ---
 
 
-- [[c.Sphere]] [[sphere.Shapow]]
+- [[c.Sphere]] #shapow

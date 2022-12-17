@@ -2,11 +2,11 @@
 id: mDO3firc32gOG9Vg66up6
 title: hasComponent
 desc: ''
-updated: 1671115877226
+updated: 1671319951010
 created: 1637839917799
 ---
 
 
 
-- [[c.Sphere]] [[sphere.Solution]]
+- [[c.Sphere]] #product-management
 - [[p.inverseOf]] [[p.isComponentOf]]

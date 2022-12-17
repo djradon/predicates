@@ -2,10 +2,8 @@
 id: B6Xy0xGYApOwFgPpUyPYv
 title: told
 desc: ''
-updated: 1671115877123
+updated: 1671319329654
 created: 1637765657216
 ---
 
-
-
-- [[c.Sphere]] [[sphere.Communication]]
+- [[c.Sphere]] #communication #epistemology

@@ -2,11 +2,11 @@
 id: ps80E6FnDhcNpxIYOZvwi
 title: metWith
 desc: 'a pre-arranged, possibly-virtual encounter'
-updated: 1671115877195
+updated: 1671318838964
 created: 1635355919754
 ---
 
 
 
-- [[c.Sphere]] [[sphere.Activity]]
+- [[c.Sphere]] #activity
 - [[p.hasRange]] [[c.Agent]]

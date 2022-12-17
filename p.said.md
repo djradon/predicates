@@ -2,10 +2,10 @@
 id: GJUhM2R00UCnIEBphwTb3
 title: said
 desc: ''
-updated: 1671115930609
+updated: 1671318839038
 created: 1637665861910
 ---
 
 
 
-- [[c.Sphere]] [[sphere.Activity]] [[sphere.Communication]]
+- [[c.Sphere]] #activity #communication

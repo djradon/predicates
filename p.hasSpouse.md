@@ -2,10 +2,10 @@
 id: UKamhuXueLhrkenktZhyZ
 title: hasSpouse
 desc: ''
-updated: 1671115877089
+updated: 1671318838938
 created: 1637595951365
 ---
 
 
 
-- [[c.Sphere]] [[sphere.Familial]]
+- [[c.Sphere]] #familial

@@ -2,9 +2,9 @@
 id: EbZQ5UB58jm63wf1s45x2
 title: had offer accepted by
 desc: ''
-updated: 1671115877236
+updated: 1671318839054
 created: 1636466899889
 ---
 
-- [[c.Sphere]] [[sphere.Negotiation]]
+- [[c.Sphere]] #negotiation
 - [[p.inverseOf]] [[p.hadOfferAcceptedBy]]
