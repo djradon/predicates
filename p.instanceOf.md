@@ -2,7 +2,7 @@
 id: s2AA4w4SyPFu44ylTFLQH
 title: instanceOf
 desc: the subject is a concrete example of a Class
-updated: 1671306625349
+updated: 1671310290139
 created: 1633270478774
 ---
 
@@ -29,4 +29,4 @@ created: 1633270478774
 ## log
 
 - [x] #gd replace all in-Class occurences of instanceOf referring to other classes with subClassOf
-  [[2022.12.12]] there was only one... [[c.DSL]]
+  #t.2022.12.12 there was only one... [[c.DSL]]
