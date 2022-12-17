@@ -2,15 +2,15 @@
 id: UkrTl5xMh45SMAfs7ei9L
 title: isRelated
 desc: A good candidate for "Default Predicate"
-updated: 1671115877102
+updated: 1671311867933
 created: 1632287205183
 ---
 
 
 
-- [[c.Sphere]] [[sphere.Conceptual]]
+- [[c.Sphere]] [[sphere.conceptual]]
 
-- isn't every predicate a [[p.subPredicateOf]] this ? 
+- isn't every predicate a [[p.
   - should have something for unrelated ! ;)
   - although unrelated is a self-negating relationship
 
