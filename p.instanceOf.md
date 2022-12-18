@@ -2,7 +2,7 @@
 id: s2AA4w4SyPFu44ylTFLQH
 title: instanceOf
 desc: the subject is a concrete example of a Class
-updated: 1671318838946
+updated: 1671340724205
 created: 1633270478774
 ---
 
@@ -13,7 +13,7 @@ created: 1633270478774
 - [[c.Sphere]] #ontological 
 - [[p.equivalentPredicate]] [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type)
 - [[p.inverseOf]] ???
-  - [ ] important thing to have a name for, maybe "hasInstance"  or classOf
+  - [-] important thing to have a name for, maybe "hasInstance"  or classOf
     - maybe not so important, when do classes need to refer to their instances? backlinks provides inventory 
   - sometimes things (topics primarily/only) can be classes, without being Classes.
   
