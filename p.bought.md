@@ -2,7 +2,7 @@
 id: 6yjbs0HN9KeLsatSzYdhH
 title: bought
 desc: ''
-updated: 1670935409135
+updated: 1671340005896
 created: 1640668254041
 ---
 
@@ -16,6 +16,9 @@ created: 1640668254041
 - [[c.VerbForms.PastParticiple]] bought
 - [[c.VerbForms.PresentParticiple]] buying
 
+## [[c.PredicateForms]]
+
+### 
 
 ## [[c.PrepositionalForms]]
 
