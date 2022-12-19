@@ -2,7 +2,7 @@
 id: Mo709elXOBnclvokUDKMU
 title: intendedTo
 desc: ''
-updated: 1671318838947
+updated: 1671341404560
 created: 1638194463683
 ---
 
@@ -10,7 +10,7 @@ created: 1638194463683
 
 - [[c.Sphere]] #mental
 - [[p.hasDomain]] [[c.Agent]]
-- [[p.hasRange]] [[pc]] 
+- [[p.hasRange]] [[c.Predicates]] 
 - [[p.vs]] [[p.planned]]
   - sure, you can plan your day but
     - I also want to be able to say when I'm doing actual planning, i.e., creating a plan to do a specific task

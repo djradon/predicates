@@ -2,7 +2,7 @@
 id: IyZFOd5fmGqROW9egX6uO
 title: rEADME
 desc: ''
-updated: 1633629602759
+updated: 1671369054844
 created: 1630296394435
 ---
 
@@ -15,3 +15,6 @@ Properties in RDF allow us to define or describe characteristics of resources.
 - first line is a description of the predicate (the "tagline"), oriented towards explicating its usage in a "tool-tip" voice.
 - maybe properties should be required to be (camel-case) compound terms, so you can always tell by looking they're not IRIs or (capitalized) classes
 
+## cleanup #todo
+
+- [ ] titles shoud be lower case and spaces :/
