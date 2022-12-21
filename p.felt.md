@@ -1,12 +1,19 @@
- ---
+---
 id: mQNt3mKQfOxQE554qPcwZ
 title: felt
 desc: ''
-updated: 1641769450404
+updated: 1671634411147
 created: 1641769442908
 ---
 
+## [[c.PredicateForms]]
 
+### [[c.LinkingVerb]]
 
-- [[c.Sphere]] #shapow
+- #paraphrase 
+
+### [[c.Activity]]
+
+#shapow
+
 - [[p.similarTo]] [[p.perceived]]
