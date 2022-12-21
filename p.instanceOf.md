@@ -2,7 +2,7 @@
 id: s2AA4w4SyPFu44ylTFLQH
 title: instanceOf
 desc: the subject is a concrete example of a Class
-updated: 1671340724205
+updated: 1671318838946
 created: 1633270478774
 ---
 

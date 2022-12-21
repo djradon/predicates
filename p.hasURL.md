@@ -2,11 +2,9 @@
 id: BzaAaifsfEv5mTiEOFBPA
 title: hasURL
 desc: ''
-updated: 1635674647024
+updated: 1671482527263
 created: 1630795517106
 ---
-
-
 
 - [[p.alsoKnownAs]] is associated with URL; webpage; URL;
 - [[p.equivalentPredicate]] [vcard:hasURL](http://www.w3.org/2006/vcard/ns#hasURL)
