@@ -2,7 +2,7 @@
 id: UkrTl5xMh45SMAfs7ei9L
 title: isRelated
 desc: A good candidate for "Default Predicate"
-updated: 1671641216868
+updated: 1671707135920
 created: 1632287205183
 ---
 
