@@ -2,11 +2,9 @@
 id: wYVAILLkqcqwkWTu9e5a1
 title: description
 desc: ''
-updated: 1635579100276
+updated: 1672096064513
 created: 1631256269247
 ---
 
-
-
 - [[p.hadDescription]] "can be described as"
-- [[p.vs]] dcterms:description; 
+- [[p.equivalentPredicate]] dcterms:description; 
