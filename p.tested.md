@@ -2,11 +2,11 @@
 id: BIKltpAEwYWfG6NJah32n
 title: tested
 desc: ''
-updated: 1637949912641
+updated: 1674403635408
 created: 1637949801732
 ---
 
 
 
-- [[p.hasUseCase]]
+- [[c.UseCase]]
   - testing a door to see if it is locked
