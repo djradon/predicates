@@ -28,5 +28,5 @@ created: 1633270478774
 
 ## log
 
-- [x] #gd replace all in-Class occurences of instanceOf referring to other classes with subClassOf
+- [x] #gd replace all in-Class occurences of instanceOf that have Class subjects with subClassOf
   #t.2022.12.12 there was only one... [[c.DSL]]
