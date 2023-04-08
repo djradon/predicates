@@ -8,4 +8,4 @@ created: 1637847532446
 
 
 
-- [[p.similarTo]] [[p.hasRelatedResource]]
+- [[p.similarTo]] [[c.Resource]]
