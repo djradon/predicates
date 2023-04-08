@@ -20,7 +20,8 @@ created: 1630795517106
 
 ### [[p.vs]] site
 
-- [ ] better to use [[p.hasSite]] when appropriate
+- [c] better to use [[p.hasSite]] when appropriate? 
+  - #t.2023.04.08 Why? You can probably tell from the URL whether there's a site to back things up. keep it simple
 
 ## possible alternatives
 
