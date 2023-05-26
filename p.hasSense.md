@@ -10,6 +10,6 @@ created: 1634741598083
 
 used for disambiguation
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://en.wikipedia.org/wiki/Sense_and_reference
