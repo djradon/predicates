@@ -2,7 +2,7 @@
 id: CooO00BfhfYUaXK7RVHZ2
 title: hadGoal
 desc: Agents and projects can be said to have desire outcomes
-updated: 1636351517339
+updated: 1688395356984
 created: 1635669467229
 ---
 
@@ -10,7 +10,7 @@ created: 1635669467229
 
 - [[p.hasDomain]] [[c.Agent]] [[c.Project]] 
 - [[p.hasOptionalProperty]] 
-  - [[p.hadStartDate]] [[c.TimePeriod]]
+  - [[p.hadStartDate]] 
   - [[p.hadDueDate]] [[c.TimePeriod]]
   - [[p.hadFinishDate]] [[c.TimePeriod]]
 
