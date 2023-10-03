@@ -1,9 +1,9 @@
 ---
 id: mbczq93y1wks2kyny9kdrr9
-title: has the main coreference
+title: is the main coreference
 desc: ''
-updated: 1695500534219
+updated: 1696354808390
 created: 1695500400501
 ---
 
-- the object/[[t.ling.grammar.subject.complement]] refers to the same thing as the subject
+- the object/[[t.ling.grammar.subject.complement]] is the preferred way to refer to the concept
