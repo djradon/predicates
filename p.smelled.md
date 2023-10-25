@@ -10,4 +10,4 @@ created: 1671632302008
 
 ### [[c.LinkingVerb]]
 
-### [[c.Activity]]
+### Activity

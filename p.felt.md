@@ -12,7 +12,7 @@ created: 1641769442908
 
 - #paraphrase 
 
-### [[c.Activity]]
+### Activity
 
 #shapow
 
