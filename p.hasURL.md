@@ -2,7 +2,7 @@
 id: BzaAaifsfEv5mTiEOFBPA
 title: hasURL
 desc: ''
-updated: 1671482527263
+updated: 1698275345015
 created: 1630795517106
 ---
 
@@ -21,7 +21,7 @@ created: 1630795517106
 ### [[p.vs]] site
 
 - [c] better to use [[p.hasSite]] when appropriate? 
-  - #t.2023.04.08 Why? You can probably tell from the URL whether there's a site to back things up. keep it simple
+  - t.2023.04.08 Why? You can probably tell from the URL whether there's a site to back things up. keep it simple
 
 ## possible alternatives
 

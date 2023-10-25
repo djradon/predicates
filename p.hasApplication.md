@@ -2,7 +2,7 @@
 id: VYBCj0XqAsH3e9FpPQ25p
 title: hasApplication
 desc: ''
-updated: 1671704362115
+updated: 1698275345019
 created: 1633191099350
 ---
 
@@ -16,4 +16,4 @@ solutions or product ideas can be applied to problems, user stories, other solut
 
 ## #log
 
-- #t.2022.12.22 fix domain/range confusion
+- t.2022.12.22 fix domain/range confusion
