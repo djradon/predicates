@@ -2,7 +2,7 @@
 id: s2AA4w4SyPFu44ylTFLQH
 title: instanceOf
 desc: the subject is a concrete example of a Class
-updated: 1698275345014
+updated: 1698704342067
 created: 1633270478774
 ---
 
@@ -24,8 +24,6 @@ created: 1633270478774
   - "instanceOf" underscores that the subject is not a Class
   - it feels like, colloquially, "type" is ambiguous between hasType and isTypeOf; the latter can mean  something more like subClassOf
 - isA is nice and compact, but maybe feels ambiguous for classes, e.g. "[a] digital garden is a website" 
-- 
-
 ## log
 
 - [x] #gd replace all in-Class occurences of instanceOf that have Class subjects with subClassOf
