@@ -10,5 +10,5 @@ created: 1635369296544
 
 
 - [[p.alsoKnownAs]] administered
-- [[c.Sphere]] #activity
+- [[c.sphere]] #activity
 

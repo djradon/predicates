@@ -11,4 +11,4 @@ created: 1635889667380
 
 leave it better than you found it
 
-- [[c.Sphere]] #activity
+- [[c.sphere]] #activity

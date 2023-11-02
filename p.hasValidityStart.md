@@ -8,4 +8,4 @@ created: 1636475055388
 
 
 
-- [[c.UseCase]] you think there's a "first" `hasValidityPoint`
+- [[c.usecase]] you think there's a "first" `hasValidityPoint`

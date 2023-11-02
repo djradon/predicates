@@ -9,6 +9,6 @@ created: 1636882867755
 
 
 
-- [[c.Sphere]] #activity
-- [[p.hasRange]] [[c.Game]] [[c.ComputerGame]]
+- [[c.sphere]] #activity
+- [[p.hasRange]] [[c.game]] [[c.computergame]]
 

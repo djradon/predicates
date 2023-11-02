@@ -9,5 +9,5 @@ created: 1635678395095
 
 
 - [[p.alsoKnownAs]] removed
-- [[c.Sphere]] #activity
+- [[c.sphere]] #activity
 

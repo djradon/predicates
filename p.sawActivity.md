@@ -8,7 +8,7 @@ created: 1634833492636
 
 
 
-- [[p.hasDomain]] [[c.TimePeriod]]
+- [[p.hasDomain]] [[c.timeperiod]]
 
 - a time-period can be said to have seen happenings
   - [[p.hasSource]]

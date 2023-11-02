@@ -8,5 +8,5 @@ created: 1635715598914
 
 
 
-- [[c.Sphere]] #activity #product-management
+- [[c.sphere]] #activity #product-management
 - [[p.similarTo]] [[dendron://predicates/p.hasApplication]]

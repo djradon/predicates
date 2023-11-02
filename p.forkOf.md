@@ -8,4 +8,4 @@ created: 1637955161388
 
 
 
-- [[c.Sphere]] #lineage
+- [[c.sphere]] #lineage

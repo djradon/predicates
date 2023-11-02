@@ -6,5 +6,5 @@ updated: 1671318839054
 created: 1636466899889
 ---
 
-- [[c.Sphere]] #negotiation
+- [[c.sphere]] #negotiation
 - [[p.inverseOf]] [[p.hadOfferAcceptedBy]]

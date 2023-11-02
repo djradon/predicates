@@ -8,5 +8,5 @@ created: 1637839917799
 
 
 
-- [[c.Sphere]] #product-management
+- [[c.sphere]] #product-management
 - [[p.inverseOf]] [[p.isComponentOf]]

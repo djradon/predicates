@@ -11,4 +11,4 @@ created: 1635913323093
 
 a service-oriented beaut
 
-- [[c.Sphere]] #activity
+- [[c.sphere]] #activity

@@ -9,6 +9,6 @@ created: 1634431162473
 
 
 
-- [[c.Sphere]] #activity
+- [[c.sphere]] #activity
 - [[p.equivalentPredicate]] [dbo:created](http://dbpedia.org/ontology/created)
-- [[p.hasRange]] [[c.CreativeWork]]
+- [[p.hasRange]] [[c.creativework]]

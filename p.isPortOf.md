@@ -9,5 +9,5 @@ created: 1636377272278
 
 
 - [[p.hasRange]]
-  - [[c.Solution]]
-  - [[c.Solution]] to [[c.Software.Platform]]  ^EMM3VT4uZhW2
+  - [[c.solution]]
+  - [[c.solution]] to [[c.software.platform]]  ^EMM3VT4uZhW2

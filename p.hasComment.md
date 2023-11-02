@@ -9,5 +9,5 @@ created: 1636171429319
 
 
 
-- [[p.hasDomain]] [[c.CreativeWork]] 
+- [[p.hasDomain]] [[c.creativework]] 
 - [[p.differentFrom]] [[p.madeComment]]

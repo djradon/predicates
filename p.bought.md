@@ -6,18 +6,18 @@ updated: 1698704342081
 created: 1640668254041
 ---
 
-## [[c.VerbForms]]
+## [[c.verbforms]]
 
 ### #en
 
-- [[c.VerbForms.Root]] buy
-- [[c.VerbForms.ThirdPersonSingular]] buys
-- [[c.VerbForms.PastTense]] bought
-- [[c.VerbForms.PastParticiple]] bought
-- [[c.VerbForms.PresentParticiple]] buying
+- [[c.verbforms.root]] buy
+- [[c.verbforms.thirdpersonsingular]] buys
+- [[c.verbforms.pasttense]] bought
+- [[c.verbforms.pastparticiple]] bought
+- [[c.verbforms.presentparticiple]] buying
 
-## [[c.PredicateForms]]
+## [[c.predicateforms]]
 
 ### 
 
-## [[c.PrepositionalForms]]
+## [[c.prepositionalforms]]

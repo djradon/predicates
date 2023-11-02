@@ -8,5 +8,5 @@ created: 1636753048254
 
 
 
-- [[c.Sphere]] #shapow #activity
+- [[c.sphere]] #shapow #activity
 - mostly for animals and food or meals

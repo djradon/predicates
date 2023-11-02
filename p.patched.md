@@ -8,7 +8,7 @@ created: 1635363546028
 
 
 
-- [[c.Sphere]] #activity
+- [[c.sphere]] #activity
 - [[p.vs]] 
   -  `updated` 
      -  might be more general, but that's overloaded in [[prdct.yaml.frontmatter]]

@@ -8,6 +8,6 @@ created: 1671632302008
 
 ## [[p.hadSense]]
 
-### [[c.LinkingVerb]]
+### [[c.linkingverb]]
 
 ### Activity

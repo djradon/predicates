@@ -9,8 +9,8 @@ created: 1633270478774
 #ontology
 
 - [[p.alsoKnownAs]] isA, is a, is an instance of the class
-- [[p.hasDomain]] [[c.Resource]]
-- [[p.hasRange]] [[c.Class]]
+- [[p.hasDomain]] [[c.resource]]
+- [[p.hasRange]] [[c.class]]
 - [[p.equivalentPredicate]] [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type)
 - [[p.inverseOf]] ???
   - [-] important thing to have a name for, maybe "hasInstance"  or classOf
@@ -27,4 +27,4 @@ created: 1633270478774
 ## log
 
 - [x] #gd replace all in-Class occurences of instanceOf that have Class subjects with subClassOf
-  t.2022.12.12 there was only one... [[c.DSL]]
+  t.2022.12.12 there was only one... [[c.dsl]]

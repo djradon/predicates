@@ -6,4 +6,4 @@ updated: 1671707740162
 created: 1671707648578
 ---
 
-- #aka [[p.had]] [[c.Contributor]]
+- #aka [[p.had]] [[c.contributor]]

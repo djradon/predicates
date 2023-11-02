@@ -6,5 +6,5 @@ updated: 1671319950996
 created: 1650122108523
 ---
 
-- [[c.Sphere]] #product-management
+- [[c.sphere]] #product-management
 - [[p.inverseOf]] [[p.hasComponent]]

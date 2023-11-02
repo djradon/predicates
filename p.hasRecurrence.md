@@ -6,5 +6,5 @@ updated: 1671311729535
 created: 1637610184755
 ---
 
-- [[c.Sphere]] #temporal
+- [[c.sphere]] #temporal
    

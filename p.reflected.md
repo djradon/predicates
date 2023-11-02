@@ -8,6 +8,6 @@ created: 1638055411157
 
 
 
-- [[c.Sphere]] #discursive #metaphoric
+- [[c.sphere]] #discursive #metaphoric
 - [[p.hasSense]]
   - shows the truth in something related

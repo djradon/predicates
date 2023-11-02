@@ -12,5 +12,5 @@ created: 1634930294044
 
 
 - [[p.alsoKnownAs]] spike into
-- [[c.Sphere]] #activity
+- [[c.sphere]] #activity
 - [[p.hasSource]] https://www.visual-paradigm.com/scrum/what-is-scrum-spike/

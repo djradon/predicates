@@ -8,7 +8,7 @@ created: 1635677574271
 
 
 
-- [[c.Sphere]] #activity
+- [[c.sphere]] #activity
 
 ## thoughts
 

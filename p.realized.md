@@ -8,4 +8,4 @@ created: 1638198056723
 
 
 
-- [[c.Sphere]] #mental
+- [[c.sphere]] #mental

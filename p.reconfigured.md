@@ -6,4 +6,4 @@ updated: 1686167880014
 created: 1637046645525
 ---
 
-- [[c.Sphere]] #activity
+- [[c.sphere]] #activity

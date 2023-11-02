@@ -6,4 +6,4 @@ updated: 1689784265342
 created: 1689602810284
 ---
 
-- [[p.equivalentPredicate]] [[p.had]] [[c.Pricing]]
+- [[p.equivalentPredicate]] [[p.had]] [[c.pricing]]

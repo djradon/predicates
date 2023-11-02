@@ -8,7 +8,7 @@ created: 1635668476861
 
 
 
-- [[c.Sphere]] #activity
+- [[c.sphere]] #activity
 - [[p.similarTo]] [[p.workedOn]]
 - [[p.hasIssue]]
   - was the activity finished?

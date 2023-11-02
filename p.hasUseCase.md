@@ -8,5 +8,5 @@ created: 1635662765589
 
 
 
-- [[p.hasRange]] [[c.UseCase]]
+- [[p.hasRange]] [[c.usecase]]
 - [[p.subPredicateOf]] [[p.hasApplication]]

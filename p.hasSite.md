@@ -8,7 +8,7 @@ created: 1633206730189
 
 
 
-- [[p.hasRange]] [[c.Website]]
-- the subject [[c.Agent]] or [[c.Topic]] has a set of web pages:
+- [[p.hasRange]] [[c.website]]
+- the subject [[c.agent]] or [[c.topic]] has a set of web pages:
   - about itself and/or
   - [[p.ownedBy]] or [[p.controlledBy]] by itself

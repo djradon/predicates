@@ -8,4 +8,4 @@ created: 1637853319458
 
 
 
-- [[c.Sphere]] #product-management
+- [[c.sphere]] #product-management

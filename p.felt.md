@@ -6,9 +6,9 @@ updated: 1671634411147
 created: 1641769442908
 ---
 
-## [[c.PredicateForms]]
+## [[c.predicateforms]]
 
-### [[c.LinkingVerb]]
+### [[c.linkingverb]]
 
 - #paraphrase 
 

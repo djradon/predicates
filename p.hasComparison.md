@@ -10,5 +10,5 @@ created: 1643810805739
   - t.2022.12.26 fixed
 
 - [[p.hasRange]]
-  - [[c.Work]]
-  - [[c.AddressableResource]]
+  - [[c.work]]
+  - [[c.addressableresource]]

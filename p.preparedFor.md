@@ -9,5 +9,5 @@ created: 1635784436546
 
 
 
-- [[c.Sphere]] #activity
-- [[p.hasRange]] [[c.Event]]
+- [[c.sphere]] #activity
+- [[p.hasRange]] [[c.event]]

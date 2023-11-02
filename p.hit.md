@@ -6,4 +6,4 @@ updated: 1671318838942
 created: 1644183973159
 ---
 
-- [[c.Sphere]] #shapow
+- [[c.sphere]] #shapow

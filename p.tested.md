@@ -8,5 +8,5 @@ created: 1637949801732
 
 
 
-- [[c.UseCase]]
+- [[c.usecase]]
   - testing a door to see if it is locked

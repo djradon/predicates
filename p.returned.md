@@ -8,6 +8,6 @@ created: 1637949627078
 
 
 
-- [[c.Sphere]] #shapow
+- [[c.sphere]] #shapow
 - [-] add sequence diagram with conditions, ie. #temporal-logic
  

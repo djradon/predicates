@@ -8,4 +8,4 @@ created: 1638051245566
 
 
 
-- [[c.Sphere]] #conceptual
+- [[c.sphere]] #conceptual

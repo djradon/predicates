@@ -9,4 +9,4 @@ created: 1638590837401
 
 
 - [[p.hasDomain]] [[p.hasConferenceSeries]]
-- [[c.Sphere]] #academic
+- [[c.sphere]] #academic

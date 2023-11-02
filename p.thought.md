@@ -6,4 +6,4 @@ updated: 1671319117437
 created: 1635783411362
 ---
 
-- [[c.Sphere]] #activity #epistemology
+- [[c.sphere]] #activity #epistemology

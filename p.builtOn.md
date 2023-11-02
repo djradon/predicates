@@ -6,7 +6,7 @@ updated: 1673281907560
 created: 1635712798010
 ---
 
-- [[c.Sphere]] #product-management
+- [[c.sphere]] #product-management
 - [[p.similarTo]] [[dendron://predicates/p.extends]] 
 - [[p.vs]] [[p.builtWith]]
 - [[p.inverseOf]] [[p.supports]]

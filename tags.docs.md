@@ -7,4 +7,4 @@ created: 1672720648677
 ---
 
 - [[p.equivalentPredicate]] [[p.hasDocumentation]]
-- [[p.references]] [[c.Documentation]]
+- [[p.references]] [[c.documentation]]

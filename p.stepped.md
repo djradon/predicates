@@ -7,4 +7,4 @@ created: 1651955905895
 ---
 
 
-- [[c.Sphere]] #shapow
+- [[c.sphere]] #shapow

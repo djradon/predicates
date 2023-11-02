@@ -6,4 +6,4 @@ updated: 1671481260359
 created: 1671481187025
 ---
 
-- #aka [[p.had]] [[c.Paraphrase]]
+- #aka [[p.had]] [[c.paraphrase]]

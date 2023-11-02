@@ -8,4 +8,4 @@ created: 1642450389729
 
 
 
-- [[p.hasRange]] [[c.Announcement]]
+- [[p.hasRange]] [[c.announcement]]

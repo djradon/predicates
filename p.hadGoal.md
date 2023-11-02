@@ -8,11 +8,11 @@ created: 1635669467229
 
 
 
-- [[p.hasDomain]] [[c.Agent]] [[c.Project]] 
+- [[p.hasDomain]] [[c.agent]] [[c.project]] 
 - [[p.hasOptionalProperty]] 
   - [[p.hadStartDate]] 
-  - [[p.hadDueDate]] [[c.TimePeriod]]
-  - [[p.hadFinishDate]] [[c.TimePeriod]]
+  - [[p.hadDueDate]] [[c.timeperiod]]
+  - [[p.hadFinishDate]] [[c.timeperiod]]
 
 ## thoughts
 

@@ -8,7 +8,7 @@ created: 1634856433230
 
 
 
-- [[c.Sphere]] #activity
+- [[c.sphere]] #activity
 
 ## [[hasComment]]
 

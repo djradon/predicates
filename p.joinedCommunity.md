@@ -7,6 +7,6 @@ created: 1654143087408
 ---
 
 
-- [[c.Sphere]] #community
-- [[p.hasObject]] [[c.Community]]
-- [[p.hasSubject]] [[c.Agent]]
+- [[c.sphere]] #community
+- [[p.hasObject]] [[c.community]]
+- [[p.hasSubject]] [[c.agent]]

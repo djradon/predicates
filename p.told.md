@@ -6,4 +6,4 @@ updated: 1671319329654
 created: 1637765657216
 ---
 
-- [[c.Sphere]] #communication #epistemology
+- [[c.sphere]] #communication #epistemology

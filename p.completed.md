@@ -11,4 +11,4 @@ created: 1635884359648
 
 almost as generic as "did", but with more sense of accomplishment
 
-- [[c.Sphere]] #activity
+- [[c.sphere]] #activity

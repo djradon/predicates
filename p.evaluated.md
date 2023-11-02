@@ -9,4 +9,4 @@ created: 1635678786376
 
 
 - [[p.alsoKnownAs]] assessed
-- [[c.Sphere]] #activity
+- [[c.sphere]] #activity

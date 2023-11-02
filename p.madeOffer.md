@@ -8,5 +8,5 @@ created: 1636431555965
 
 
 
-- [[c.Sphere]] #negotiation
+- [[c.sphere]] #negotiation
 

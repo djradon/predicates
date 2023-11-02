@@ -8,5 +8,5 @@ created: 1635355919754
 
 
 
-- [[c.Sphere]] #activity
-- [[p.hasRange]] [[c.Agent]]
+- [[c.sphere]] #activity
+- [[p.hasRange]] [[c.agent]]

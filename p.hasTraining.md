@@ -8,6 +8,6 @@ created: 1637843779405
 
 
 
-- [[p.hasDomain]] [[c.Solution]]
-- [[c.Sphere]] #product-management
+- [[p.hasDomain]] [[c.solution]]
+- [[c.sphere]] #product-management
 - [[p.similarTo]] [[p.hasLearningResource]]

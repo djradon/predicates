@@ -8,4 +8,4 @@ created: 1637405974573
 
 
 
-- [[c.Sphere]] #discursive
+- [[c.sphere]] #discursive

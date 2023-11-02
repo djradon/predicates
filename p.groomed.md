@@ -9,4 +9,4 @@ created: 1635889524672
 
 
 
-- [[c.Sphere]] #activity
+- [[c.sphere]] #activity

@@ -7,4 +7,4 @@ created: 1654145195459
 ---
 
 
-- [[c.Sphere]] #communication #community
+- [[c.sphere]] #communication #community

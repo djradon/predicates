@@ -9,4 +9,4 @@ created: 1637839054370
 
 
 - [[p.inverseOf]] [[p.implements]]
-- [[c.Sphere]] #product-management
+- [[c.sphere]] #product-management

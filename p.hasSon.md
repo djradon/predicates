@@ -8,4 +8,4 @@ created: 1637645072446
 
 
 
-- [[c.Sphere]] #familial
+- [[c.sphere]] #familial

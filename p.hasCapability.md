@@ -10,8 +10,8 @@ created: 1635448474139
 
 
 
-- [[p.hasDomain]] [[c.Solution]] [[c.Product]] [[c.Agent]]
-- [[p.hasRange]] [[c.Activity]] [[c.Benefit]]
+- [[p.hasDomain]] [[c.solution]] [[c.product]] [[c.agent]]
+- [[p.hasRange]] [[c.activity]] [[c.benefit]]
 - [[p.alsoKnownAs]] is capable of; 
 - [[p.similarTo]] [[p.hasFeature]]
 - [[p.vs]] [[p.hasFeature]]

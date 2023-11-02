@@ -8,4 +8,4 @@ created: 1638375128872
 
  #academic #business
 
-- [[p.hasDomain]] [[c.Organization]] [[c.Community]] [[c.Topic]]
+- [[p.hasDomain]] [[c.organization]] [[c.community]] [[c.topic]]

@@ -8,4 +8,4 @@ created: 1638116677729
 
 
 
-- [[c.Sphere]] #geoSpatial
+- [[c.sphere]] #geoSpatial
