@@ -7,5 +7,5 @@ created: 1694982060847
 ---
 
 - #aka meat shield
-- #description deliberately attract enemy attention and attacks
+- description: deliberately attract enemy attention and attacks
 - [[gd.co-identities-vs-tag-for]]
