@@ -2,7 +2,7 @@
 id: s2AA4w4SyPFu44ylTFLQH
 title: instanceOf
 desc: the subject is a concrete example of a Class
-updated: 1698704342067
+updated: 1710803997355
 created: 1633270478774
 ---
 
@@ -17,13 +17,16 @@ created: 1633270478774
     - maybe not so important, when do classes need to refer to their instances? backlinks provides inventory 
   - sometimes things (topics primarily/only) can be classes, without being Classes.
   
-
+  
 ## instanceOf Discussion
 
 - changed because 
   - "instanceOf" underscores that the subject is not a Class
+    - t.2024.03.18.16 unless it's an instanceOf a class
   - it feels like, colloquially, "type" is ambiguous between hasType and isTypeOf; the latter can mean  something more like subClassOf
 - isA is nice and compact, but maybe feels ambiguous for classes, e.g. "[a] digital garden is a website" 
+- https://stackoverflow.com/questions/25737584/subclassof-and-instance-of-rdf-rdfsclass
+
 ## log
 
 - [x] #gd replace all in-Class occurences of instanceOf that have Class subjects with subClassOf
