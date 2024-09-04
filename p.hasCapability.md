@@ -4,13 +4,13 @@ title: hasCapability
 desc: >-
   a solution or agent can address some aspect of a product need (i.e., a problem
   or opportunity)
-updated: 1698704342076
+updated: 1725409554552
 created: 1635448474139
 ---
 
 
 
-- [[p.hasDomain]] [[c.solution]] [[c.product]] [[c.agent]]
+- [[p.hasDomain]] [[c.solution]] [[prdct]] [[c.agent]]
 - [[p.hasRange]] [[c.activity]] [[c.benefit]]
 - [[p.alsoKnownAs]] is capable of; 
 - [[p.similarTo]] [[p.hasFeature]]
