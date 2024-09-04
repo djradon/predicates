@@ -1,8 +1,8 @@
 ---
 id: 1jeyeu6s4z7hgi532md0mgs
-title: relates to personal knowledge management
+title: personal knowledge management
 desc: ''
-updated: 1671640800589
+updated: 1725473564490
 created: 1671640668302
 ---
 
