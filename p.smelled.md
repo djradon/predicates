@@ -2,12 +2,12 @@
 id: kvozlzurwbla14mmh7fa96v
 title: Smelled
 desc: ''
-updated: 1671634032837
+updated: 1725582905602
 created: 1671632302008
 ---
 
-## [[p.hadSense]]
+## Senses
 
-### [[c.linkingverb]]
+### Linking Verb
 
 ### Activity
